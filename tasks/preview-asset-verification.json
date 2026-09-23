@@ -1,7 +1,7 @@
 {
   "url": "https://nwc-learning-companion--audience-refresh-zkiwg8wa.web.app",
-  "checked_at": "2026-09-23T22:43:35.960327+00:00",
-  "edition": "2026-09-lab-masthead",
+  "checked_at": "2026-09-23T23:14:45.798315+00:00",
+  "edition": "2026-09-settled-masthead",
   "files": [
     {
       "path": "assets/asking-to-supervising.svg",
@@ -60,7 +60,7 @@
     {
       "path": "assets/release.json",
       "match": true,
-      "sha256": "ecbde4a57b68e0882c45ed948dad6f71ab5d9d2bc4eca282519c44f590ac8871",
+      "sha256": "9078fb331894da5a913793b530b8d9c97aa71751cdb809957b68644b3fc7233e",
       "cache_control": "no-cache"
     },
     {
@@ -72,7 +72,7 @@
     {
       "path": "assets/the-irreducible-officer.pdf",
       "match": true,
-      "sha256": "2707ef81253bdc2fed2be730b3f2d55315158adb10995c720585106238a569c8",
+      "sha256": "67a1cabb573d8620a5d5c688f95195d4e0ccbb4bc5177ed6bbf5f386f834b0d4",
       "cache_control": "public, max-age=86400"
     },
     {
@@ -528,7 +528,7 @@
     {
       "path": "index.html",
       "match": true,
-      "sha256": "ae8d32fffbb7324214a893a63c7286acae73fd6959c434e48d7760d7c5cc3a3a",
+      "sha256": "8bfcf9c55844af577393fe1ab90bb71fb6d74bfdb876201103af27aac7cacb3f",
       "cache_control": "no-cache"
     }
   ],

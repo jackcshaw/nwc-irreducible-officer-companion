@@ -1,6 +1,6 @@
 # Judgment Lab: full refresh testing guide and review
 
-September 23, 2026. Release candidate: `2026-09-lab-masthead`.
+September 23, 2026. Release candidate: `2026-09-settled-masthead`.
 
 ## Start tomorrow
 
@@ -94,3 +94,12 @@ Discuss incorporates the five claims from the existing Judgment in Practice EduF
 Build and contracts pass, including five-path navigation, claim/source completeness, generated-script parsing, and audience-preserving discussion handoff. Browser checks cover desktop and 390px mobile, all five paths without horizontal page overflow, discussion-to-practice handoff, clearing focus, keyboard skip-to-content, essay navigation, and the audience workbench. The final confirmation corrected decorative separators in accessibility output and made carried discussion state visible and clearable.
 
 The static Impeccable detector reports 15 design findings: the intentional masthead rule, display-heading leading, and edge alignment on sections divided by horizontal rules. Visual review confirmed readable headings and intentional divider alignment; these are recorded design choices rather than a claim of a clean detector report. Classroom and educator validation remain pending.
+
+
+## Settled masthead after visual comparisons
+
+The selected B composition uses a 54px Source Serif 4 wordmark and a 26px all-navy italic purpose beneath it, with 40px/22px mobile sizes. The red period and active-navigation indicator remain. The red phrase experiment was rejected. The five paths and a labeled audience selector share one desktop navigation row; mobile separates the audience control from the path buttons. Source Serif 4 replaces Fraunces for display headings, with Source Sans 3 for masthead controls.
+
+Audience changes preserve discussion focus and selected workbench document routes. On Learn, choosing a setting opens its audience guide; All settings returns to the overview. The global selector and workbench selector stay synchronized. Existing deep links remain supported.
+
+Build and contract checks passed, including the new audience-selector regression. Browser checks confirmed HE-to-high-school assessment switching on the same document route, all five mobile paths at 390px without page overflow, audience guide selection, and clearing the setting. The masthead refinement is published to the testing preview; production remains unchanged.
