@@ -1,6 +1,6 @@
 # Judgment Lab: AI Companion Source
 
-Testing edition: [open the complete preview](https://nwc-learning-companion--audience-refresh-zkiwg8wa.web.app) (through September 29). Production publication is awaiting approval. See the [testing guide and review](tasks/full-refresh-review.md).
+Testing edition: [open the complete preview](https://nwc-learning-companion--audience-refresh-zkiwg8wa.web.app) (through September 30). Production publication is awaiting approval. See the [testing guide and review](tasks/full-refresh-review.md).
 
 This repo supplies Judgment Lab’s shared foundation, PME / higher education / high-school guides, and interactive sessions. **The Irreducible Officer** remains the original argument about AI-enabled strategic judgment at the National War College.
 

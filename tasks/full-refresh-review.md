@@ -1,10 +1,10 @@
 # Judgment Lab: full refresh testing guide and review
 
-September 22, 2026. Release candidate: `2026-09-audience-testing`.
+September 23, 2026. Release candidate: `2026-09-workbench-audiences`.
 
 ## Start tomorrow
 
-Open the [testing preview](https://nwc-learning-companion--audience-refresh-zkiwg8wa.web.app). It expires September 29, 2026. This is the complete refreshed site, with the same audience source files used in its downloads.
+Open the [testing preview](https://nwc-learning-companion--audience-refresh-zkiwg8wa.web.app). It expires September 30, 2026. This is the complete refreshed site, with the same audience source files used in its downloads.
 
 1. Start with **K–12 · High school**, then **Start an interactive session**.
 2. Download the lab context and attach it to a fresh assistant conversation. Copy the interactive lab prompt from the preview. Use an assistant with attachments or paste the context; the site does not contain a chatbot.
@@ -24,7 +24,7 @@ Record the assistant/model, date, audience, case, support used, unhelpful behavi
 | K–12 view | High school first; explicit prerequisites, teacher modeling, bounded student inference, fictional surface-temperature case. |
 | Essay | Text unchanged; labeled as the original PME application, with working PDF and section anchors. |
 | Companion | Audience-aware setup and starter prompts; seven-mode interactive lab; context attachment/web fallback. |
-| Workbench | All nine template introductions and relevant body assumptions adapted; audience guide and framework scope explicit. |
+| Workbench | Three distinct workbench views; 27 adapted templates, setting-specific assessment criteria and prompts, worked examples, role matrices, and validation requirements. |
 | Sources | Original spine unchanged; shared foundation and separate, checked adaptation-evidence notes. |
 | Downloads | Audience guides, foundation, evidence notes, companion/workbench/lab bundles, all templates and concepts, framework assets, essay PDF. |
 | Navigation | Audience travels in the URL and copied prompts; stable workbench document links; refresh/Back and keyboard routing. |
@@ -46,20 +46,31 @@ Record the assistant/model, date, audience, case, support used, unhelpful behavi
 - A fresh `#pme`, `#he`, or `#k12` link did not persist its audience. Corrected URL state and added a regression test executing the shipped routing function.
 - Preview links inside the workbench bundle could return to old production content. Rebase those links when building a preview.
 
+## September 23 workbench correction
+
+The prior review overstated the completeness of audience adaptation. Shared NWC validation labels, a universal-supervision claim, generic assessment prompts, and unchanged visible reference materials remained. These gaps are now corrected in the current source and published testing preview.
+
+- Selecting a setting updates the heading, status, worked example, reference matrix, all nine tool descriptions, selected document, setup prompt, and context download.
+- Each audience has a 14-section context bundle, nine standalone templates, a guide, and a matrix SVG. The shared bundle has 16 sections. Template copy, download, and bundle content are checked for parity.
+- Assessment dimensions, provisional descriptors, and changed-case questions are specific to the professional, disciplinary, or high-school task. Support and unassigned responsibilities are recorded explicitly.
+- Exported framework graphics no longer assert a universal supervision endpoint or NWC-only validation. Active repository instructions and roadmap use the broader audience scope; historical plans have supersession notices.
+- A hosted returning-browser check exposed old cached JSON. Content-hashed data URLs now prevent reuse of stale workbench data; Markdown and JSON revalidate. The same browser passed after the correction.
+- Original essay, claims, and source spine remain intact. Jev stays separate. These changes are authored teaching designs, not new evidence of learning.
+
 ## Checks performed
 
 - Site build and existing contract suite pass.
-- New audience contract passes for three views, all nine templates, copied/downloaded content parity, source inclusion, linked assets, unique IDs, and manifest counts.
+- Expanded audience contract passes for three views and all 27 adapted templates: source/profile agreement, copied/downloaded/bundled content parity, linked assets, unique IDs, section counts, content cache key, and the actual client audience handler.
 - Direct audience handoff regression passes for PME, HE, and high school.
 - Portable lab context matches its 13 source files. Site builds reject a stale context. Earlier package checks confirmed changed and missing source rejection.
-- Browser checks cover all three direct audience-to-companion handoffs, all nine workbench selections, a document reload and Back, keyboard tab navigation, HE and companion mobile layouts at 390px, and no horizontal overflow on checked mobile views.
+- Browser checks cover all 27 workbench selections; changing audience while retaining the selected document; reload and Back; hosted HE and high-school routes; desktop and 390px mobile layout; a horizontally scrollable matrix without page overflow. Prior direct audience-to-companion and keyboard navigation checks remain covered by the unchanged routing contracts.
 - An intentional local 503 showed a visible workbench error; selecting a tool retried successfully. An intentional clipboard-denial policy exposed the prompt for manual copying with focus and status feedback.
 - Original essay, claim map, and essay source spine match their pre-refresh source bytes. The essay PDF remains the essay, not a substitute classroom packet.
 - Interface detector warnings concerned inherited Fraunces/cream styling and compact heading leading. Preserved the existing design identity; body text uses the established 1.5 line height.
 
 ## Preview verification
 
-The Firebase preview deployment succeeded. All 49 published files match the checked build byte-for-byte; see [preview-asset-verification.json](preview-asset-verification.json). The canonical root URL was used for index verification. Production judgmentlab.net was separately checked and remains unchanged. Hosted browser checks confirmed the HE-to-companion prompt uses the preview context URL, the adaptation evidence is visible, and the high-school path opens correctly. The Firebase CLI could not sync preview Auth domains; this static site has no authentication dependency, and the published assets are accessible.
+The Firebase preview deployment succeeded. All 88 published files match the checked build byte-for-byte; see [preview-asset-verification.json](preview-asset-verification.json). The canonical root URL was used for index verification. Production judgmentlab.net was separately checked and remains unchanged. Hosted browser checks confirmed the HE workbench loads for a returning visitor after the cache correction, and switching to the high-school assessment updates its questions and download. The Firebase CLI could not sync preview Auth domains; this static site has no authentication dependency, and the published assets are accessible.
 
 ## Evidence and release limits
 
