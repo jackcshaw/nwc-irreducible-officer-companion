@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pme",
+    "label": "PME",
+    "title": "Professional military education",
+    "question": "Who owns the strategic judgment?",
+    "summary": "Direct capable AI assistance, weigh competing interests, and defend the decision when conditions change.",
+    "focus": "Frame capture",
+    "example": "A disruption is not yet an attribution",
+    "file": "pme.md"
+  },
+  {
+    "id": "he",
+    "label": "Higher education",
+    "title": "Higher education",
+    "question": "What does the work show about understanding?",
+    "summary": "Keep disciplinary reasoning visible while using AI to question, compare, and improve the work.",
+    "focus": "Premature synthesis",
+    "example": "What does a survey warrant?",
+    "file": "he.md"
+  },
+  {
+    "id": "k12",
+    "label": "K–12 · High school",
+    "title": "K–12: high school first",
+    "question": "What must learners understand before they can judge?",
+    "summary": "Teach the foundations, bound the student’s choices, and make useful assistance part of guided practice.",
+    "focus": "Uncalibrated reliance",
+    "example": "What can temperature readings tell us?",
+    "file": "k12.md"
+  }
+]

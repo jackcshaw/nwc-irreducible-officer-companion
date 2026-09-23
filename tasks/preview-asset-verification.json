@@ -1,0 +1,250 @@
+{
+  "url": "https://nwc-learning-companion--audience-refresh-zkiwg8wa.web.app",
+  "files": [
+    {
+      "path": "index.html",
+      "match": true,
+      "sha256": "8469e5f702cd41d2abf37491bd5a64a885ebc29ead0ba3c675c13f7937074459"
+    },
+    {
+      "path": "assets/workbench-context.md",
+      "match": true,
+      "sha256": "c10695dbe9ddbc7cdfe814aad57fde8028d28cb83e9e4746253caeccd8af3a7f"
+    },
+    {
+      "path": "assets/the-irreducible-officer.pdf",
+      "match": true,
+      "sha256": "27bba3d5f3f9ab8d32e1a531b88e65347fa624fc555f05f55777da7682c6e5d3"
+    },
+    {
+      "path": "assets/essay.md",
+      "match": true,
+      "sha256": "92e65d59bd51af95662340661458aea486cbb6fde86813d79e6d69fc760b29fa"
+    },
+    {
+      "path": "assets/companion-context.md",
+      "match": true,
+      "sha256": "9422c2a196a808aed66f55c0e23898b48a92f5c6a376145d84760eeb2bd4f142"
+    },
+    {
+      "path": "assets/release.json",
+      "match": true,
+      "sha256": "be3a946552609d514295fb5e8ed661d6258582fe2b0a00acb5ce41e639ffbb1e"
+    },
+    {
+      "path": "assets/asking-to-supervising.svg",
+      "match": true,
+      "sha256": "ea59d498a9ebc244ccc6bbd26f4a2434f6f6de1c7a0ea7ec00568b9cd44f8ed1"
+    },
+    {
+      "path": "assets/judgment-lab-interactive-context.md",
+      "match": true,
+      "sha256": "d9f6063b70fd9cdc621d9f486c9eeb0867c41bdd50a75bae02d8669841d70e54"
+    },
+    {
+      "path": "assets/share-card.png",
+      "match": true,
+      "sha256": "081929fd11b39939ec39d5d5f322b83cf834371f9e322a83215c34b214eff23e"
+    },
+    {
+      "path": "assets/workbench-data.json",
+      "match": true,
+      "sha256": "d3fdb2b68e1e6232327fa9e79c06b69909ab56a9b56d504615312f2fca1ba875"
+    },
+    {
+      "path": "assets/audiences/evidence-notes.md",
+      "match": true,
+      "sha256": "4ff93d521c5ac84b0a036729eff558b4bcb64f2bfd54b185d4b005a85c2ecd70"
+    },
+    {
+      "path": "assets/audiences/he.md",
+      "match": true,
+      "sha256": "61465f63bcce1f12851c4afed3fa8ae28f8694528b03aba0e6fb5fd8702159de"
+    },
+    {
+      "path": "assets/audiences/shared-foundations.md",
+      "match": true,
+      "sha256": "d87b0b1c9bb9c310b48417def9ec0e657c2e89046489fa34e84cf107903f6ca5"
+    },
+    {
+      "path": "assets/audiences/pme.md",
+      "match": true,
+      "sha256": "2ac31bba3136d6708f62bf0b1f3c1fdf6ecf41c059cdb2cbd4ac3c2cb892b435"
+    },
+    {
+      "path": "assets/audiences/k12.md",
+      "match": true,
+      "sha256": "879fe6def46027eb868eff52c14c8541155dc8340e73511aa49f09d0d00019ee"
+    },
+    {
+      "path": "assets/workbench/source-kit-template.md",
+      "match": true,
+      "sha256": "91dca35c108e905ffc48fb573fff3775a971f240ba8211ec9996d06bb99fbfa1"
+    },
+    {
+      "path": "assets/workbench/flawed-output-library-template.md",
+      "match": true,
+      "sha256": "16cfcfe19c50897f52b6a0af3530bebba3a3659c5b91f6750c8c1c926cc3f4ef"
+    },
+    {
+      "path": "assets/workbench/phase-placement-diagnostic.md",
+      "match": true,
+      "sha256": "30d6a77efa9dcdf8f628388071001da7b01983311ec3aaa6bbab0a2c7b2040c7"
+    },
+    {
+      "path": "assets/workbench/supervised-delegation-exercise.md",
+      "match": true,
+      "sha256": "38d2a1403be0e37d77365204888839cbaa9648336a7e1e260c30e9243904446c"
+    },
+    {
+      "path": "assets/workbench/faculty-calibration-protocol.md",
+      "match": true,
+      "sha256": "b2e5fbcdfb886f1de4234c60980c36af5d506caf35fc5404f699d65a4ba5940e"
+    },
+    {
+      "path": "assets/workbench/method-card-template.md",
+      "match": true,
+      "sha256": "8cbe6d283dd95d6bede83be0b707fdd58b3f172b5057a7162e30f5a487ca2431"
+    },
+    {
+      "path": "assets/workbench/assignment-design-worksheet.md",
+      "match": true,
+      "sha256": "2a3dead0b6b777c4ad95a1db5c33f128ff4baaddbb0f0fb9b277de5e1905371e"
+    },
+    {
+      "path": "assets/workbench/after-action-note-template.md",
+      "match": true,
+      "sha256": "117f86dd86365092248ea9353012fd031b91d269f55cba8236b83319b148afcb"
+    },
+    {
+      "path": "assets/workbench/assessment-and-oral-defense-rubric.md",
+      "match": true,
+      "sha256": "b0a1cad452cfef3ba3378a385666d875c95bda07c7bc4f5f586749a4f35355b0"
+    },
+    {
+      "path": "assets/workbench/audiences/guide.md",
+      "match": true,
+      "sha256": "75ca0845f3d5d932b50a8882c79e849f1b7324a99fb0524a2b1be368d5a40b78"
+    },
+    {
+      "path": "assets/workbench/framework/ai-fluency-progression.md",
+      "match": true,
+      "sha256": "ff6f180d39bd36ee1dbf55732ec51c0a98971985da67bb73e83572ac54dc15ab"
+    },
+    {
+      "path": "assets/workbench/framework/assets/reference-matrix.svg",
+      "match": true,
+      "sha256": "308ab8b465bc71aa0150419d266672ddae97f49e9d6157f74afeda094aed1bb4"
+    },
+    {
+      "path": "assets/workbench/framework/assets/reference-matrix.png",
+      "match": true,
+      "sha256": "132183b24fb3f3cb24d148ca9214fe7fd1b606243b856e84975cef598c290253"
+    },
+    {
+      "path": "assets/workbench/framework/assets/tools-behind-progression.svg",
+      "match": true,
+      "sha256": "8477c79da7e4ca4687a2b8e7f07d71254b5127d580bcc9fa9ea755973a306286"
+    },
+    {
+      "path": "assets/workbench/framework/assets/asking-to-supervising.svg",
+      "match": true,
+      "sha256": "ea59d498a9ebc244ccc6bbd26f4a2434f6f6de1c7a0ea7ec00568b9cd44f8ed1"
+    },
+    {
+      "path": "assets/workbench/framework/assets/capability-compounds.svg",
+      "match": true,
+      "sha256": "aa999f8a5178d418a2ae172355bee7c35c51e88d141e779cc6e2d0ae90b475eb"
+    },
+    {
+      "path": "assets/workbench/framework/assets/capability-compounds.png",
+      "match": true,
+      "sha256": "00d63cb85660b5c4878b063d87d47a46339143b4b9036c21eaf3a8f2fe4dc12b"
+    },
+    {
+      "path": "assets/workbench/framework/assets/asking-to-supervising.png",
+      "match": true,
+      "sha256": "f75fbe36352d159612076e0ec3d54158b21b9806ee80d2e66f3f3f4d4e3c95ed"
+    },
+    {
+      "path": "assets/workbench/framework/assets/tools-behind-progression.png",
+      "match": true,
+      "sha256": "6b456ed3b88080c56bee0ef580f97e74b5d102ed309a77f445bccf44bd27d149"
+    },
+    {
+      "path": "assets/workbench/concepts/source-kits-are-curated-context.md",
+      "match": true,
+      "sha256": "8c4b3a8e4c3242944a853ba5bdbc9a9908e55472bb724e1c0eff794c52f4257a"
+    },
+    {
+      "path": "assets/workbench/concepts/facilitation-blocks.md",
+      "match": true,
+      "sha256": "337db0456c6f9da8e6192ea9357c7b644a1ab635d0ea89303e8cfa5bae4715d6"
+    },
+    {
+      "path": "assets/workbench/concepts/method-cards-and-agent-skills.md",
+      "match": true,
+      "sha256": "3e1611dc0b57359906e7c5f1b3373b48c45adbebc8d7d6f9ae414da688c3e029"
+    },
+    {
+      "path": "assets/workbench/concepts/why-the-matrix-is-a-hypothesis.md",
+      "match": true,
+      "sha256": "48a9ae2d899eda8705b938301b1a619474238ceefe1f272569821f3f8446a4cf"
+    },
+    {
+      "path": "assets/workbench/concepts/how-faculty-judgment-compounds.md",
+      "match": true,
+      "sha256": "b8f610ea46d2e615f140257f28c8747553d7a2d2626d7d9b3e74abe1399ba5fc"
+    },
+    {
+      "path": "assets/workbench/concepts/README.md",
+      "match": true,
+      "sha256": "50b744c4e6266508958d351f8a067754532dbeef7cb58eefd6c370eeb2dc052f"
+    },
+    {
+      "path": "assets/workbench/templates/source-kit-template.md",
+      "match": true,
+      "sha256": "878b2b40a09a8824c556248bb2040452a24d9b600404fb1280bbc9132757fc2a"
+    },
+    {
+      "path": "assets/workbench/templates/flawed-output-library-template.md",
+      "match": true,
+      "sha256": "75234899e6ed47d6a9aa5491147bd6b3787138d139c5f72d5366e11ea3c9ec07"
+    },
+    {
+      "path": "assets/workbench/templates/phase-placement-diagnostic.md",
+      "match": true,
+      "sha256": "12e110749867ae9dab2fee150325ada96333b3009ed56b20644e3cdef159f895"
+    },
+    {
+      "path": "assets/workbench/templates/supervised-delegation-exercise.md",
+      "match": true,
+      "sha256": "4df4a1174279f6a4ea623dc3c57aacaebd932cbe3d7262386767be55d7971538"
+    },
+    {
+      "path": "assets/workbench/templates/faculty-calibration-protocol.md",
+      "match": true,
+      "sha256": "6084c5ce142461e9649db430ef6c9bfc6c6efe69e596149f224caa7b832875a0"
+    },
+    {
+      "path": "assets/workbench/templates/method-card-template.md",
+      "match": true,
+      "sha256": "d553d0c951a458abe9435b8f5e7d70d2e0f07130e5633ed04732a3396c379366"
+    },
+    {
+      "path": "assets/workbench/templates/assignment-design-worksheet.md",
+      "match": true,
+      "sha256": "ff14aa924f3cc3a2c8afe4096024fb9ec6821af99271ef0606fd20da2c407401"
+    },
+    {
+      "path": "assets/workbench/templates/after-action-note-template.md",
+      "match": true,
+      "sha256": "9e5058c01be70426ba3fd43f2e39b3c60e727bacfd05d5397476fb9f526e82d2"
+    },
+    {
+      "path": "assets/workbench/templates/assessment-and-oral-defense-rubric.md",
+      "match": true,
+      "sha256": "11f7f8486a77878b776f6bbc150e8a800564a3a953e054d94d8645c1cd558a36"
+    }
+  ]
+}

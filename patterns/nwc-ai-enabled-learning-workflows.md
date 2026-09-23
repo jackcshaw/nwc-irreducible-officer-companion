@@ -1,5 +1,7 @@
 # NWC AI-Enabled Learning Workflows
 
+Audience note: these patterns originate in the PME essay. For HE or high school, use the matching `audiences/` guide and shared foundation. Keep disciplinary objectives, task readiness, educator support, and age-appropriate responsibilities explicit. The interactive lab starts with educator practice against the essay, then transfers to teaching. An assistant may draft a record only from actual decisions; unmade choices and unobserved review remain open.
+
 Use these workflows when a reader wants to practice the method behind **The Irreducible Officer**. The first practice object is the essay itself. Faculty can use the same workflows to build their own AI fluency and then turn that experience into pedagogy.
 
 The common loop is:
