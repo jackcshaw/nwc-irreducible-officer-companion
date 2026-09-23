@@ -1,6 +1,6 @@
 {
   "url": "https://nwc-learning-companion--audience-refresh-zkiwg8wa.web.app",
-  "checked_at": "2026-09-23T22:34:29.095961+00:00",
+  "checked_at": "2026-09-23T22:43:35.960327+00:00",
   "edition": "2026-09-lab-masthead",
   "files": [
     {
@@ -72,7 +72,7 @@
     {
       "path": "assets/the-irreducible-officer.pdf",
       "match": true,
-      "sha256": "de7892a5d8fa954226065dc2af3d704183730fe7b78355f4a88776fec81f4aff",
+      "sha256": "2707ef81253bdc2fed2be730b3f2d55315158adb10995c720585106238a569c8",
       "cache_control": "public, max-age=86400"
     },
     {
@@ -528,7 +528,7 @@
     {
       "path": "index.html",
       "match": true,
-      "sha256": "9f4453be8bd98dce3a0aaa4d166ebe4520feb13a39b498f8d39a2351a03e7e79",
+      "sha256": "ae8d32fffbb7324214a893a63c7286acae73fd6959c434e48d7760d7c5cc3a3a",
       "cache_control": "no-cache"
     }
   ],
