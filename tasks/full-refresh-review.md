@@ -1,6 +1,6 @@
 # Judgment Lab: full refresh testing guide and review
 
-September 23, 2026. Release candidate: `2026-09-workbench-audiences`.
+September 23, 2026. Release candidate: `2026-09-lab-masthead`.
 
 ## Start tomorrow
 
@@ -81,3 +81,16 @@ Automatic approval review rejected production publication because it required ex
 ## Reproduce or release
 
 Use the active companion, site, and workbench siblings under `/Users/jackcshaw-2/dev/comprendo-clients/`. The older `nwc/` copies are not this candidate. Rebuild the lab context first, then build the site with explicit companion/workbench paths. For the preview, set SITE_URL to its URL and run both test suites. For an approved production release, rebuild with the production origin, test again, and deploy only the pinned `nwc-learning-companion` hosting site. Verify live assets against the build. Firebase retains previous hosting releases for rollback.
+
+
+## September 23 identity and navigation refinement
+
+The settled purpose is **Strengthening human judgment in AI-enabled work.** A prominent Judgment Lab masthead now appears across the site. Learn, Discuss, Practice, Design, and References are the five primary paths; the original essay remains available under Learn. Existing essay and workbench URLs remain supported.
+
+The Impeccable refinement preserves the cream, navy, red, and serif identity, with a larger wordmark, clearer page hierarchy, more open spacing, editorial tool rows, and responsive navigation. The share card carries the settled purpose.
+
+Discuss incorporates the five claims from the existing Judgment in Practice EduFish edition, including its fictional examples, objections, prompts, and evidence links. It links to the original facilitator guide, reading room, and school-leadership case. The separate application itself is unchanged. A selected claim can travel into Practice or Design with the audience; a visible control clears that focus without losing the audience.
+
+Build and contracts pass, including five-path navigation, claim/source completeness, generated-script parsing, and audience-preserving discussion handoff. Browser checks cover desktop and 390px mobile, all five paths without horizontal page overflow, discussion-to-practice handoff, clearing focus, keyboard skip-to-content, essay navigation, and the audience workbench. The final confirmation corrected decorative separators in accessibility output and made carried discussion state visible and clearable.
+
+The static Impeccable detector reports 15 design findings: the intentional masthead rule, display-heading leading, and edge alignment on sections divided by horizontal rules. Visual review confirmed readable headings and intentional divider alignment; these are recorded design choices rather than a claim of a clean detector report. Classroom and educator validation remain pending.
