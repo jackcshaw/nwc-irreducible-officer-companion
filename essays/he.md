@@ -12,7 +12,7 @@ The first reads the studies alone. She works out what each one measured, notices
 
 Now ask which student understands the problem. The memos will not tell you by themselves. The second student may have done the more demanding work, directing machine capability toward a question she chose. Or the model may have handed her its framing of the question, and she organized it well. AI did not lower the bar for judgment. It raised it, then made it harder to see who cleared it.
 
-The first student is the harder case. Her memo is careful, unaided, and would have earned top marks before these tools existed. She looks finished. She is also about to enter workplaces where her peers pair similar judgment with much stronger command of the tools. A course that certifies her and misses that gap has taught to the old standard.
+The first student is the harder case. Her memo is careful, unaided, and well argued. She looks finished. She is also about to enter workplaces where her peers pair similar judgment with much stronger command of the tools. A course that certifies her and misses that gap has taught to the old standard.
 
 Policy questions still matter. Institutions have to decide where AI is allowed, how students disclose it, and which material may enter which systems. A course can settle all of that and still assess the wrong thing. Disclosure tells an instructor that a student used AI. It does not tell the instructor whether the judgment in the memo is the student's.
 
@@ -36,7 +36,7 @@ Five of the original essay's failure modes show up in this one exchange.
 
 **Fluency substitution.** The balanced paragraph sounds like judgment. It weighs every study and never decides which one this firm should care about most.
 
-**Premature synthesis.** The model connected three studies before the student knew enough about their designs to see that they measured different things in different workforces. An average of a call center, a travel agency's hybrid schedule, and a software team's feedback is not a finding.
+**Premature synthesis.** The model connected three studies before the student knew enough about their designs to see that they measured different things in different workforces.
 
 **Invisible delegation.** "Summarize the research" handed over the criterion. The student believed she was asking for help with reading. She was also asking the model to decide what counted.
 
@@ -86,7 +86,7 @@ Students also need to meet a tool that helps, one that tempts them forward too f
 
 ## VII. The Person Who Sets the Standard Answers for It
 
-The student who defined productivity as short-run output answers for the memo that follows from it. "The research shows hybrid is the balance" is not a defense. It is the model's frame with the model's name taken off. If the firm adopts the recommendation and loses a cohort of junior staff, the question of who chose that standard should have an answer, and the answer is the student.
+The student who defined productivity as short-run output answers for the memo that follows from it. "The research shows hybrid is the balance" does not say who decided what counted as productivity. If the firm adopts the recommendation and loses a cohort of junior staff, the question of who chose that standard should have an answer, and the answer is the student.
 
 That responsibility is scaled to a student's role. She is not approving a firm's policy. She is answerable for the claims she submits and the standard behind them, and she should be able to say what she accepted, what she refused, and why she still stands behind the recommendation.
 
@@ -120,7 +120,13 @@ The original essay's five-step pilot carries over directly.
 
 Two instructors can review a handful of the records together and compare what they infer. Where they disagree, the prompt or the rubric usually needs work.
 
-Other disciplines need their own version of the misframed answer. In history, it might be a synthesis of the historiography that averages scholars who were asking different questions. In engineering, a design review that optimizes cost when the requirement that matters is failure tolerance. The structure holds: the output is accurate, and it answers a question other than the one that matters.
+Other disciplines need their own misframed answer, and the pattern carries.
+
+In a history course on colonial America, a student asks AI why the Salem witch trials happened. It returns an accurate list of what historians have argued. Boyer and Nissenbaum traced the accusations along a factional split in Salem Village, Karlsen found that many accused women had inherited, or stood to inherit, property in families without male heirs, and Norton tied the crisis to refugees and fear from the war on the Maine frontier. The model presents these as contributing factors and adds ergot poisoning, a 1976 hypothesis most historians have rejected. Each summary is right. The frame is wrong, because the historians were answering different questions: who accused whom, why certain women were accused, and why the crisis came in 1692 and spread. A student has to decide which question her paper answers before she can use any of them. The changed case asks why the trials ended, and the decisive evidence shifts to the dispute over spectral evidence and Increase Mather's *Cases of Conscience*.
+
+In an engineering design course, a team asks AI to choose a material for a mounting bracket on a machine that will vibrate for years. It builds a weighted decision matrix across weight, cost, corrosion resistance, and machinability and recommends an aluminum alloy. The property data are right. The frame treats fatigue life as one preference among several, or leaves it out, when the bracket either survives the required number of load cycles or fails. Most steels have a stress level below which cyclic loading causes no fatigue damage; aluminum alloys do not. A team that screens the must-meet requirements before weighing tradeoffs will reach a different answer. The changed case is a bracket for a test fixture used a few hundred times, where the aluminum recommendation is right.
+
+Both cases need review by an instructor who teaches the course before they go to students.
 
 ## X. What Departments Can Build
 
@@ -144,11 +150,23 @@ Bloom, N., Han, R., & Liang, J. (2024). Hybrid working from home improves retent
 
 Bloom, N., Liang, J., Roberts, J., & Ying, Z. J. (2015). Does working from home work? Evidence from a Chinese experiment. *Quarterly Journal of Economics, 130*(1), 165–218. <https://doi.org/10.1093/qje/qju032>
 
+Boyer, P., & Nissenbaum, S. (1974). *Salem possessed: The social origins of witchcraft*. Harvard University Press.
+
+Callister, W. D., & Rethwisch, D. G. *Materials science and engineering: An introduction* (fatigue chapter). Wiley.
+
+Caporael, L. R. (1976). Ergotism: The Satan loosed in Salem? *Science, 192*(4234), 21–26.
+
 Deng, Y., Brucks, M., & Toubia, O. (2026). Examining and addressing barriers to diversity in LLM-generated ideas. arXiv:2602.20408. <https://arxiv.org/abs/2602.20408>
 
 Emanuel, N., Harrington, E., & Pallais, A. (2023). The power of proximity to coworkers: Training for tomorrow or productivity today? NBER Working Paper 31880. <https://www.nber.org/papers/w31880>
 
+Karlsen, C. F. (1987). *The devil in the shape of a woman: Witchcraft in colonial New England*. W. W. Norton.
+
+Norton, M. B. (2002). *In the devil's snare: The Salem witchcraft crisis of 1692*. Alfred A. Knopf.
+
 Raees, M., & Papangelis, K. (2026). From trust to appropriate reliance: Measurement constructs in human-AI decision-making. arXiv:2604.23896. <https://arxiv.org/abs/2604.23896>
+
+Spanos, N. P., & Gottlieb, J. (1976). Ergotism and the Salem Village witch trials. *Science, 194*(4272), 1390–1394.
 
 Theobold, A. S. (2021). Oral exams: A more meaningful assessment of students' understanding. *Journal of Statistics and Data Science Education, 29*(2), 156–159. <https://www.tandfonline.com/doi/full/10.1080/26939169.2021.1914527>
 

@@ -37,14 +37,14 @@ The first drafts made foundations the destination and left critique of AI output
 
 ## Evidence
 
-New case facts were checked on September 25, 2026 against Bloom et al. (2015, *QJE*), Bloom, Han and Liang (2024, *Nature*), Emanuel, Harrington and Pallais (2023, NBER), DeWitt (2010, *Social Security Bulletin*), and the BLS/Lebergott unemployment series. Bastani et al. (2025) and EEF are scoped as before. The original's aviation and command sources stay in the PME essay.
+The Social Security exclusion account follows Dubin (2024), which reviews both sides: Lieberman (1998), Quadagno and Katznelson (2005) on racial politics; Davies and Derthick (1997) and DeWitt (2010) on administrative feasibility. DeWitt's article itself returned an access error and was read through Dubin's quotations and the search abstract. The HE history and engineering translation cases rely on standard secondary works named in the HE references and have not yet had discipline review. New case facts were checked on September 25, 2026 against Bloom et al. (2015, *QJE*), Bloom, Han and Liang (2024, *Nature*), Emanuel, Harrington and Pallais (2023, NBER), DeWitt (2010, *Social Security Bulletin*), and the BLS/Lebergott unemployment series. Bastani et al. (2025) and EEF are scoped as before. The original's aviation and command sources stay in the PME essay.
 
 ## Voice review
 
 Mechanical: pass (script), `writing-as-jack/scripts/jack_eval.py` on both scratch drafts; repo files match the scanned content.
 
-Judgment checks are recorded in the review conversation and stay advisory; Jack remains the judge of voice.
+Second pass fixed the first-pass judgment fails: unsupported claims (removed or sourced), interpretive morals after examples (replaced with concrete statements), and mirrored closings (the high-school close now differs). Judgment checks stay advisory; Jack remains the judge of voice.
 
 ## Still needed
 
-An educator in each setting should review the case, the documents or reading list it assumes, and the rubric. The audience guides, interactive context, site build, and workbench profiles still carry the old examples and need updating once these drafts are accepted.
+A high school social studies teacher should review the New Deal case, especially the Social Security passage, before it reaches students. A history instructor and an engineering instructor should review the HE translation cases. An educator in each setting should also review the case, the documents or reading list it assumes, and the rubric. The audience guides, interactive context, site build, and workbench profiles still carry the old examples and need updating once these drafts are accepted.
