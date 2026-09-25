@@ -14,7 +14,7 @@ AI can propose a purpose, frame, criterion, or alternative. People authorize the
 
 A learner needs enough subject knowledge to understand a claim, enough reasoning to connect evidence to that claim, and enough awareness of the task to notice when help changes it. These capacities develop through instruction and practice. They should not be assumed from age, seniority, credentials, or fluent prose.
 
-For each task, identify one or two prerequisites, observe them briefly, and provide modeling or guided practice when needed. A teacher-supplied frame can give a novice room to make a meaningful choice. More experienced learners may be ready to contest the frame itself. Expand responsibility from evidence of readiness, not from a fixed age ladder.
+Build those capacities inside the work rather than as a gate before AI enters. For each task, identify one or two prerequisites, observe them in the learner's unaided first attempt, and teach them there when needed. A teacher-supplied frame can give a novice room to make a meaningful choice. More experienced learners may be ready to contest the frame itself. Expand responsibility from evidence of readiness, not from a fixed age ladder.
 
 Some effort is the point of the lesson. Search, calculation, drafting, or synthesis may be developmental work in one task and avoidable overhead in another. Decide which capability the assignment is building before deciding which effort AI should remove. Preserve access supports and distinguish help communicating a decision from help making it.
 
@@ -23,8 +23,8 @@ Some effort is the point of the lesson. Search, calculation, drafting, or synthe
 | Setting | Consequential choice | Foundations to check | Educator responsibility |
 | --- | --- | --- | --- |
 | PME | Define the professional problem, weigh risk and competing interests, direct staff or AI assistance. | Domain knowledge, strategic logic, assumptions, source interpretation. | Observe defensible reliance and judgment under changed conditions; retain professional context and authorization. |
-| Higher education | Make and defend a disciplinary inference, interpretation, design, or recommendation. | Relevant concepts, methods, source standards, and what a claim requires in that discipline. | Align assistance and assessment to the learning objective; choose feasible and accessible evidence. |
-| High school | Make a bounded inference, check an explanation, or revise a method within a taught frame. | Task vocabulary, subject knowledge, representations, and the reasoning required by this particular decision. | Teach missing foundations, choose materials and AI access, and retain adult responsibilities. |
+| Higher education | Choose and defend the standard behind a disciplinary inference, interpretation, design, or recommendation; direct AI toward it. | Relevant concepts, methods, source standards, and what a claim requires in that discipline. | Align assistance and assessment to the learning objective; choose feasible and accessible evidence. |
+| High school | Choose and defend a standard or question within a teacher-supplied task; direct AI through structured prompts or teacher-run evaluator loops. | Task vocabulary, subject knowledge, representations, and the reasoning required by this particular decision. | Teach missing foundations, choose materials and AI access, and retain adult responsibilities. |
 
 High school is the first K–12 starting point. Middle and elementary adaptations remain future work: revisit the concepts, task size, scaffolding, language, teacher mediation, and evidence rather than shrinking the same text.
 

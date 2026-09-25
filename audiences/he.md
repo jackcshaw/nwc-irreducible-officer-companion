@@ -9,26 +9,34 @@ For university and college instructors, faculty developers, and program leaders.
 
 Use the complete Judgment Lab context with your assistant. Say: “My setting is higher education. Run the failure-mode lab one question at a time. Begin with the essay; then ask about my discipline and learning objective before proposing a teaching adaptation.”
 
-Suggested first test: premature synthesis. Also test fluency substitution and uncalibrated reliance. All seven cases are available. Accept a sound AI contribution when its reasons warrant it; suspicion alone is not a learning outcome.
+Suggested first test: frame capture. Also test fluency substitution and premature synthesis. All seven cases are available. Accept a sound AI contribution when its reasons warrant it; suspicion alone is not a learning outcome.
 
-## Worked transfer: what does a survey warrant?
+## Worked transfer: a research memo on returning to the office
 
-This fictional social-science / introductory statistics case includes its entire evidence set. A campus survey invited 1,000 students by email; 100 responded, and 80 respondents favored a later shuttle. There is no information about nonrespondents, sampling weights, route use, or operating cost. The decision is whether to recommend a service change and what further evidence is necessary.
+This case matches Section II of the HE essay. A mid-sized software firm, most of whose recent hires are new graduates, is deciding whether to require office work. The student writes the firm a research memo from three studies:
 
-**Learning objective:** distinguish the observed sample result from a population claim and from a policy recommendation.
+- Bloom et al. (2015): Ctrip call-center employees who volunteered and were randomly assigned to work from home performed 13% better, and were promoted less often at the same performance.
+- Bloom, Han & Liang (2024): a randomized hybrid trial with 1,612 Trip.com employees cut quits by a third with no effect on performance reviews.
+- Emanuel, Harrington & Pallais (2023): junior software engineers received less feedback on their code when teammates were not nearby.
 
-**Readiness check:** ask the learner to identify the denominator in “80% support” and explain one way respondents could differ from nonrespondents. Model the distinction if needed; a polished response is not proof of statistical understanding.
+**Learning objective:** choose and defend what productivity should mean for this firm, then use the evidence that bears on that standard.
 
-**Interactive sequence:** Ask for a bounded claim and what would make it useful to the decision; wait. Offer this constructed AI-style contribution: “Eighty percent of respondents favor a later shuttle, which is a strong signal among those who replied. The university should describe this as overwhelming student support and permanently extend the service.” Ask which parts the learner accepts or revises and why. Press the counterargument: decisions often must proceed with incomplete evidence, and a reversible trial may be reasonable.
+**Step 1, unaided frame:** ask the learner, without AI, what productivity should mean for this firm and what evidence would decide the question. This is also the readiness check. If the learner cannot say what a study measured and whom it followed, teach that here, then continue.
 
-**Changed condition:** the 100 students were instead selected randomly from a complete student list and every selected student answered. Costs and route use remain unknown. Ask which objection weakens, what uncertainty remains, and what recommendation is now warranted. Do not accept a memorized “surveys are biased” answer without considering the changed sampling conditions. No calculation of a confidence interval is required unless it is part of the course objective.
+**Step 2, direct AI against the frame:** the learner states purpose and criteria ("sort these studies by what they measured, which workers they followed, and for how long; flag training and promotion findings") or runs an evaluator loop (one agent argues for the firm's managers, another for its newest hires). Record what they kept and why.
 
-**Review criteria:** correct sample denominator; distinction between nonresponse concerns and random-sampling uncertainty; separation of descriptive evidence and value/cost choices; a justified next action. A reversible service trial can be defensible without pretending the evidence establishes a permanent policy.
+**Step 3, constructed misframed synthesis:** "Research on remote work is mixed. Ctrip's home workers performed 13% better; Trip.com's hybrid trial cut quits by a third with no change in performance reviews; junior engineers received less feedback away from teammates. Hybrid offers the best of both." Ask what the learner accepts, checks, revises, or refuses, and why.
 
-**Save:** one inference before assistance, one reliance decision with a reason, response to the changed sampling condition, and the educator's follow-up. Written, spoken, or accessible equivalent responses can expose reasoning; choose what the objective requires.
+**Review notes, withheld until the learner responds:** every summary is accurate. The synthesis treats productivity as short-run output averaged across workers. For a firm developing new graduates, the feedback and promotion findings decide the question, and the Ctrip result comes from experienced volunteers answering phones. Accept the study summaries after checking the abstracts; refuse the "mixed evidence" verdict with a reason. Asking a second model is not a check.
+
+**Changed case:** the firm is instead an established call center whose staff average ten years of experience and are rarely promoted out of their roles. Ask which evidence matters most now and whether the recommendation changes. Do not accept a repeated "juniors need proximity" answer.
+
+**Review criteria:** a stated standard and why it fits; one alternative frame considered; evidence that bears on the standard; an accepted AI contribution with its check; a coherent re-frame for the changed case. Grade the defense, not the conclusion.
+
+**Save:** the unaided frame, one AI contribution kept and one refused with reasons, the diagnosis of the synthesis, the changed-case response, and the educator's follow-up.
 
 ## Adaptation and feasible review
 
-This is one example, not an HE-wide curriculum. History needs source provenance and competing interpretations; engineering may need constraints, testing, and failure analysis. Ask for the actual assignment and source materials before making that translation. Do not invent a primary-source packet.
+Other disciplines need their own misframed answer. The HE essay sketches two: a history synthesis of the Salem witch trials that presents historians answering different questions as additive "factors," and an engineering materials matrix that treats fatigue life as a preference rather than a requirement. Both need review by an instructor in that discipline. Ask for the actual assignment and source materials before translating; do not invent a reading list. Use `artifacts/frame-first-assignment-design.md` to rate a candidate case.
 
 A proposed educator trial pairs two instructors examining the same response, with 20–30 minutes estimated for rehearsal. In a large course, sample a consequential decision or use a short changed-condition explanation rather than requiring a long oral defense from everyone. Record actual workload and unresolved disagreement. Continue only if the activity exposes the intended disciplinary reasoning; revise or stop if language fluency or task ambiguity dominates. No learning effect or assessment validity is established yet.
