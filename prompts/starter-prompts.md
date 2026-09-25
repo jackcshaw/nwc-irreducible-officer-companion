@@ -1,5 +1,8 @@
 # Starter Prompts
 
+For HE, read `essays/he.md`; for high-school educators, read `essays/k12.md`. Use the selected companion edition for discussion and practice; compare with the original officer essay and `claims.md` when testing the shared argument. Use `essays/adaptation-map.md` for differences.
+
+
 Use your stated setting throughout: PME, higher education, or high school. Read the matching audience guide and the shared foundation. If the setting is missing, ask one question before recommending a teaching task. The essay’s original NWC claims remain distinct from proposed adaptations. Begin practical educator sessions by testing the essay, then transfer to teaching; do not assume officer prerequisites or adult accountability for school students.
 
 Use these prompts with **The Irreducible Officer** and this companion repo. They are designed for a back-and-forth session with an AI assistant.

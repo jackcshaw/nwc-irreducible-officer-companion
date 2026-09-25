@@ -7,7 +7,10 @@
     "summary": "Direct capable AI assistance, weigh competing interests, and defend the decision when conditions change.",
     "focus": "Frame capture",
     "example": "A disruption is not yet an attribution",
-    "file": "pme.md"
+    "file": "pme.md",
+    "essayFile": "the-irreducible-officer.md",
+    "essayTitle": "The Irreducible Officer",
+    "essayMode": "essay"
   },
   {
     "id": "he",
@@ -17,7 +20,10 @@
     "summary": "Keep disciplinary reasoning visible while using AI to question, compare, and improve the work.",
     "focus": "Premature synthesis",
     "example": "What does a survey warrant?",
-    "file": "he.md"
+    "file": "he.md",
+    "essayFile": "essays/he.md",
+    "essayTitle": "Judgment in Higher Education",
+    "essayMode": "he-essay"
   },
   {
     "id": "k12",
@@ -27,6 +33,9 @@
     "summary": "Teach the foundations, bound the student’s choices, and make useful assistance part of guided practice.",
     "focus": "Uncalibrated reliance",
     "example": "What can temperature readings tell us?",
-    "file": "k12.md"
+    "file": "k12.md",
+    "essayFile": "essays/k12.md",
+    "essayTitle": "Learning to Exercise Judgment",
+    "essayMode": "k12-essay"
   }
 ]

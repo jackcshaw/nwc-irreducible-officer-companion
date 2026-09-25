@@ -1,7 +1,7 @@
 {
   "url": "https://nwc-learning-companion--audience-refresh-zkiwg8wa.web.app",
-  "checked_at": "2026-09-23T23:14:45.798315+00:00",
-  "edition": "2026-09-settled-masthead",
+  "checked_at": "2026-09-25T18:56:26.316563+00:00",
+  "edition": "2026-09-companion-essays",
   "files": [
     {
       "path": "assets/asking-to-supervising.svg",
@@ -18,13 +18,13 @@
     {
       "path": "assets/audiences/he.md",
       "match": true,
-      "sha256": "61465f63bcce1f12851c4afed3fa8ae28f8694528b03aba0e6fb5fd8702159de",
+      "sha256": "d1e1d4419382571575618bac9ed49d588a3cb62cb463bd5a34e079a8757d645c",
       "cache_control": "no-cache"
     },
     {
       "path": "assets/audiences/k12.md",
       "match": true,
-      "sha256": "879fe6def46027eb868eff52c14c8541155dc8340e73511aa49f09d0d00019ee",
+      "sha256": "ca5b59fd1f0471d972a376781a2ff4d65ff456e60a6d17532a37d34c4a7cb0d2",
       "cache_control": "no-cache"
     },
     {
@@ -40,9 +40,15 @@
       "cache_control": "no-cache"
     },
     {
+      "path": "assets/claims.md",
+      "match": true,
+      "sha256": "c992cdedce911aba4ee4e8978183eea118f9d72532e8a18c6af4d7d0ab3e13f9",
+      "cache_control": "no-cache"
+    },
+    {
       "path": "assets/companion-context.md",
       "match": true,
-      "sha256": "9422c2a196a808aed66f55c0e23898b48a92f5c6a376145d84760eeb2bd4f142",
+      "sha256": "1b28cb8fcd9401d990fe19291d25033f7851e4e1ab18f2f09705c21be3e9b2d3",
       "cache_control": "no-cache"
     },
     {
@@ -52,15 +58,33 @@
       "cache_control": "no-cache"
     },
     {
+      "path": "assets/essays/adaptation-map.md",
+      "match": true,
+      "sha256": "32ddc4ae609026151cf222a573496afb1acdc22acccc6b761054c2daf2ec4a6b",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/essays/he.md",
+      "match": true,
+      "sha256": "448a081a60222294ba8765b9a89f3822b8386b0d7408594db4c6a5ce799c6570",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/essays/k12.md",
+      "match": true,
+      "sha256": "cab52dd17f5f1d3537450c044d93bb32d274e75d654fcbfedf3bda951c445de3",
+      "cache_control": "no-cache"
+    },
+    {
       "path": "assets/judgment-lab-interactive-context.md",
       "match": true,
-      "sha256": "d9f6063b70fd9cdc621d9f486c9eeb0867c41bdd50a75bae02d8669841d70e54",
+      "sha256": "1273b67fe99232599bfd165351f57ad4548a47854d75a90061f24bcf0617297c",
       "cache_control": "no-cache"
     },
     {
       "path": "assets/release.json",
       "match": true,
-      "sha256": "9078fb331894da5a913793b530b8d9c97aa71751cdb809957b68644b3fc7233e",
+      "sha256": "fffa45bc72d8c0692c6a43015ddc2c35c0e771cdc40ee8885144c2ee03728ac5",
       "cache_control": "no-cache"
     },
     {
@@ -70,9 +94,27 @@
       "cache_control": "public, max-age=86400"
     },
     {
+      "path": "assets/sources/audience-foundations.md",
+      "match": true,
+      "sha256": "4ff93d521c5ac84b0a036729eff558b4bcb64f2bfd54b185d4b005a85c2ecd70",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/sources/source-spine.md",
+      "match": true,
+      "sha256": "237b40f501270a7dc70d8e21b1074830f7a6a03c508d8ac54de777bd65f4935e",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/the-irreducible-officer.md",
+      "match": true,
+      "sha256": "92e65d59bd51af95662340661458aea486cbb6fde86813d79e6d69fc760b29fa",
+      "cache_control": "no-cache"
+    },
+    {
       "path": "assets/the-irreducible-officer.pdf",
       "match": true,
-      "sha256": "67a1cabb573d8620a5d5c688f95195d4e0ccbb4bc5177ed6bbf5f386f834b0d4",
+      "sha256": "dc9e4e67d92a37bbbb97ebb6e2735fd49707e463550b2a674a8cc9c9a13a9783",
       "cache_control": "public, max-age=86400"
     },
     {
@@ -96,19 +138,19 @@
     {
       "path": "assets/workbench/audiences/guide.md",
       "match": true,
-      "sha256": "425807e87b20f0c0bab0edd3abb9da415b3be73a140401be4ee8b599c3f39897",
+      "sha256": "ba24e5d9423c7cda17e4dad1ea15a58710ae51c8a9146b7a75549ba731d3ba47",
       "cache_control": "no-cache"
     },
     {
       "path": "assets/workbench/audiences/he.md",
       "match": true,
-      "sha256": "758e43ba970a1d7bf38206bc0df766c577014667aab9b8f83f3b084812ba2324",
+      "sha256": "ed749e3341b805c0aadda6079aea2ed3477fb53b0dd157e52490ba6ffa42d1ae",
       "cache_control": "no-cache"
     },
     {
       "path": "assets/workbench/audiences/k12.md",
       "match": true,
-      "sha256": "6c84a6b2ca549efab7ec9b3d25db7b73cbcbdd9338a212157bcf84a9b48469d0",
+      "sha256": "599009ab97684d2026301ca44889484a92198085a45f79eccfe6c51c1bd3bda9",
       "cache_control": "no-cache"
     },
     {
@@ -498,37 +540,37 @@
     {
       "path": "assets/workbench-context-he.md",
       "match": true,
-      "sha256": "0133f40216a9d8b0c61d49814b223513556ee5b0d76545470a60b3144bf1c3b2",
+      "sha256": "8ddb3abd2fa4daf45b1ba3b1d16c65d7bf6188c066b8945eee780cf1df710a18",
       "cache_control": "no-cache"
     },
     {
       "path": "assets/workbench-context-k12.md",
       "match": true,
-      "sha256": "85988d3f43792af76b9a648251fcc6ff3e576530ca527e58f4b0d3765d37395d",
+      "sha256": "9cb5332f6919907b75b6a94cf8e2ba487c2c1b030b0b7699aa08b0f391419d44",
       "cache_control": "no-cache"
     },
     {
       "path": "assets/workbench-context-pme.md",
       "match": true,
-      "sha256": "7f1bb856c09d89b59687090aae9e5c0d33dd904306fcb58b2d2889e2cbca79f9",
+      "sha256": "bb175f141ff004a7b7f2ba38a816a93eefd44258869ce93bf80a7566157c8133",
       "cache_control": "no-cache"
     },
     {
       "path": "assets/workbench-context.md",
       "match": true,
-      "sha256": "2da90bc95390a299b61daccc064eb5c27ba8a344563b1a4640b88332cbd5f0ae",
+      "sha256": "ea45ab5aff5a08849b1a86e5e6a544527b2d53f9888b9847ebbed4498be88b3f",
       "cache_control": "no-cache"
     },
     {
       "path": "assets/workbench-data.json",
       "match": true,
-      "sha256": "4d3819acd06cedb8beab0f295d75802120f5020f426ae3bc10575ad976ff3ba0",
+      "sha256": "7bbe0d623e96a39f058995a6243767e925fc329c01d9a574464fce323299af97",
       "cache_control": "no-cache"
     },
     {
       "path": "index.html",
       "match": true,
-      "sha256": "8bfcf9c55844af577393fe1ab90bb71fb6d74bfdb876201103af27aac7cacb3f",
+      "sha256": "68284a7c2a9932c6e4f8fd69ff771736df0ac6b3124f0a5124377ce4cafbc508",
       "cache_control": "no-cache"
     }
   ],

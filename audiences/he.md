@@ -1,5 +1,8 @@
 # Higher education: keep disciplinary reasoning visible
 
+Read the companion essay [Judgment in Higher Education](../essays/he.md), then use this guide for the worked teaching example. The original officer essay remains the PME source.
+
+
 For university and college instructors, faculty developers, and program leaders. Use the essay as an educator's practice object, then translate the method into the standards of your discipline. Strategic language is not a substitute for disciplinary evidence.
 
 ## Start an interactive session

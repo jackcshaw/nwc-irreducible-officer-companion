@@ -103,3 +103,7 @@ The selected B composition uses a 54px Source Serif 4 wordmark and a 26px all-na
 Audience changes preserve discussion focus and selected workbench document routes. On Learn, choosing a setting opens its audience guide; All settings returns to the overview. The global selector and workbench selector stay synchronized. Existing deep links remain supported.
 
 Build and contract checks passed, including the new audience-selector regression. Browser checks confirmed HE-to-high-school assessment switching on the same document route, all five mobile paths at 390px without page overflow, audience guide selection, and clearing the setting. The masthead refinement is published to the testing preview; production remains unchanged.
+
+## September 25: full companion essays and interactive entry
+
+The standalone HE and high-school educator essays now exist and are integrated across the five learning paths and matching contexts. See [the current release review](companion-essay-review.md) for completed checks, corrected gaps, and the separate human-validation boundary. The original essay, claims map, and source spine remain unchanged.

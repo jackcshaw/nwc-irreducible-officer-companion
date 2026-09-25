@@ -1,5 +1,8 @@
 # Test the essay in an interactive session
 
+Begin with the full essay for your setting: [PME](../../the-irreducible-officer.md), [higher education](../../essays/he.md), or [high-school educators](../../essays/k12.md). All three are included in the portable context. The protocol maps original case anchors to the selected edition.
+
+
 Bring **The Irreducible Officer** into your AI assistant and test one of its failure modes. Make a judgment, examine a constructed AI contribution, defend or revise your decision, then consider what the experience changes about your teaching.
 
 This is the testing edition of the Judgment Lab refresh. It extends the existing workbench's guided-session approach. The assistant runs the conversation; you make the decisions. The refreshed site and downloads use the same sources. Educator and classroom testing remain pending.
