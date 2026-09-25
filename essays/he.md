@@ -1,145 +1,155 @@
 # Judgment in Higher Education
 
-## Purpose, Understanding, and AI-Enabled Work
+## Directing AI Toward Purposes Students Own
 
-Companion edition of *The Irreducible Officer*, for university instructors, faculty developers, and program leaders. September 2026 testing draft. The argument is adapted here; the teaching designs require review in the actual course.
+Companion edition of *The Irreducible Officer*, for university instructors, faculty developers, and program leaders. September 2026. The original argues that the National War College has to teach and certify AI-enabled judgment. This edition makes the same argument for higher education. The course designs in it are proposals for instructors to test in their own disciplines.
 
-## I. The Performance Standard Has Changed
+## I. The Bar Went Up
 
-Picture two students handed the same difficult assignment. One works alone, reads the material, builds an argument, and revises it when the evidence resists. The other uses AI to compare interpretations, identify assumptions, and challenge a first attempt. The second student's paper is clearer and better supported. Read the papers cold and you might rank that one higher.
+Two students get the same assignment. A mid-sized software firm is deciding whether to require employees back in the office, and each student has to write the firm a research memo.
 
-Now ask what each student understands. The papers will not tell you by themselves. The second student may have done demanding intellectual work, directing useful assistance and examining what it returned. Or the system may have supplied an argument the student never learned to evaluate. Both paths can produce a strong submission.
+The first reads the studies alone. She works out what each one measured, notices that they disagree, and writes a careful memo recommending a hybrid schedule. The second directs AI through the same material. She has it sort the studies by what they measured and which workers they followed. She has one agent argue the firm's case and another argue the case of the firm's newest hires, then works through where they disagree. Her memo is sharper and better sourced. Read the two memos cold and you would rank hers higher.
 
-Higher education has to prepare students to work with capable assistance while developing the knowledge that makes their decisions worth trusting. A finished product remains part of that evidence. Faculty also need to see the student's reasoning when a consequential assumption changes, a source proves inadequate, or the assistance is unavailable.
+Now ask which student understands the problem. The memos will not tell you by themselves. The second student may have done the more demanding work, directing machine capability toward a question she chose. Or the model may have handed her its framing of the question, and she organized it well. AI did not lower the bar for judgment. It raised it, then made it harder to see who cleared it.
 
-The policy questions are real. Institutions have to decide where AI is allowed, how students disclose it, and which materials may enter which systems. A course can settle all of that and still assess the wrong thing. Disclosure tells an instructor that a student used AI. It does not establish what the student learned.
+The first student is the harder case. Her memo is careful, unaided, and would have earned top marks before these tools existed. She looks finished. She is also about to enter workplaces where her peers pair similar judgment with much stronger command of the tools. A course that certifies her and misses that gap has taught to the old standard.
 
-The difficulty extends beyond direct use. Students encounter summaries, search results, supplied analyses, and other material that may already contain AI-shaped choices. They need to examine inherited reasoning as well as outputs they requested themselves. The appropriate standard depends on the discipline and the level of study. Directing several agents may be a useful advanced task; it is not an entry requirement for every undergraduate.
+Policy questions still matter. Institutions have to decide where AI is allowed, how students disclose it, and which material may enter which systems. A course can settle all of that and still assess the wrong thing. Disclosure tells an instructor that a student used AI. It does not tell the instructor whether the judgment in the memo is the student's.
 
-Faculty already have ways to investigate understanding through discussion, drafts, demonstrations, revision, and problems that depart from a familiar example. The work ahead is to connect those practices to AI use without assuming that university enrollment establishes the prerequisites for judging an answer.
+Higher education's task is to graduate people who can direct AI toward purposes they own, decide when its output deserves weight, and defend the result as their own. Faculty already know how to probe understanding through discussion, drafts, and problems that break a familiar pattern. The work ahead is to point those practices at AI-enabled work instead of around it.
 
-## II. What the Problem Looks Like
+## II. A Fluent Synthesis of the Wrong Question
 
-Consider a fictional statistics assignment. A university invites 1,000 students to answer a survey about extending shuttle hours. One hundred respond, and 80 support the change. A student asks AI for a summary of the result. It reports that 80 percent of students support extended hours and recommends proceeding.
+Here is what happens when a student asks the question the way most students would: "Summarize the research on whether remote work hurts productivity."
 
-The arithmetic for respondents is right. The population claim is unsupported by the response process described. A student who knows the denominator, notices nonresponse, and separates an estimate of support from a policy decision can use parts of the output and correct the rest. A student who has memorized the phrase “check for bias” may object without being able to explain what went wrong. An instructor needs to distinguish those responses.
+The model returns a good paragraph. It reports that call-center employees at the travel firm Ctrip who were randomly assigned to work from home performed 13 percent better ([Bloom et al., 2015](https://doi.org/10.1093/qje/qju032)). It reports that a later randomized trial of hybrid work with 1,612 employees at the same company, since renamed Trip.com, cut quit rates by a third with no effect on performance reviews ([Bloom, Han & Liang, 2024](https://www.nature.com/articles/s41586-024-07500-2)). It reports that junior software engineers received less feedback on their code when their teammates were not nearby ([Emanuel, Harrington & Pallais, 2023](https://www.nber.org/papers/w31880)). It concludes that the evidence is mixed and that hybrid arrangements offer the best of both.
 
-The seven failure modes in the original essay remain useful questions to ask of this work.
+Every summary is accurate. The memo built on it would read well. And for many firms it answers the wrong question.
 
-**Frame capture** occurs when the model supplies the first plausible frame and the student never achieves enough distance to revise it. Here, a question about what a survey warrants becomes a question about how to justify a shuttle decision. Later revisions can improve the recommendation while leaving the evidentiary problem untouched.
+The synthesis treats "productivity" as short-run output, averaged across workers. The firm's actual question depends on who its workers are. If it hires mostly new graduates, the proximity study is the one that matters: junior engineers lost mentoring when they worked apart, and the paper frames that as a trade between output today and skill later. The Ctrip study adds a detail the summary left out. Its home workers were volunteers, and they were promoted less often than office workers with the same performance. A firm whose future depends on developing junior staff should weigh those findings far more heavily than a 13 percent gain among experienced volunteers answering phones.
 
-**Fluency substitution** occurs when polished language stands in for reasoning the student can demonstrate. A paragraph can mention uncertainty, representation, and limitations while still treating the respondents as the entire student population. Ask the student which people the percentage describes.
+A student who catches this has not found an error. The summaries are right. She has noticed that the synthesis answered "does remote work change output?" when her firm needed "what happens to the people we are trying to develop?" That is a frame problem, and no stock phrase like "check for bias" will find it.
 
-**Premature synthesis** appears when a student asks AI to connect material before doing enough work to know what should be connected. The output links sources, themes, and concepts in ways that feel coherent. If the student cannot reconstruct why those connections matter, faculty still need evidence that the student has learned to make them.
+Five of the original essay's failure modes show up in this one exchange.
 
-**Uncalibrated reliance** appears when usefulness on one part of a task licenses acceptance of another. Accurate arithmetic provides no independent warrant for a population inference. The student should be able to explain which contribution deserves weight and which requires a different check.
+**Frame capture.** The model's definition of productivity becomes the memo's definition. Later drafts improve the prose inside the wrong boundary.
 
-**Invisible delegation** occurs when the student does not notice which parts of the work they have handed over. Asking for “feedback” may delegate criteria. Asking for “a better structure” may delegate the argument. Asking for “counterarguments” may delegate the range of imaginable objections. Students need opportunities to inspect those choices and decide which to retain.
+**Fluency substitution.** The balanced paragraph sounds like judgment. It weighs every study and never decides which one this firm should care about most.
 
-**Institutional monoculture** becomes a concern when a class receives variations on the same framing and mistakes them for independent alternatives. Several AI-generated arguments for extended hours might all omit nonrespondents. Whether this occurs in a particular class is something to investigate by comparing assumptions, not something the presence of AI establishes in advance.
+**Premature synthesis.** The model connected three studies before the student knew enough about their designs to see that they measured different things in different workforces. An average of a call center, a travel agency's hybrid schedule, and a software team's feedback is not a finding.
 
-**Responsibility laundering** occurs when “the model recommended it” replaces an account of the student's decision. Students remain answerable for claims they submit within the expectations of the course. Faculty and institutions remain responsible for their own assessment, access, and instructional decisions.
+**Invisible delegation.** "Summarize the research" handed over the criterion. The student believed she was asking for help with reading. She was also asking the model to decide what counted.
 
-These failures can coexist with useful assistance. The instructor should also present a contribution whose limits are accurately stated and ask what makes accepting it reasonable. A course that rewards only objections teaches students to perform suspicion.
+**Institutional monoculture.** Give the same assignment to thirty students using similar tools and similar prompts, and many will turn in some version of "the evidence is mixed; hybrid is the balance." The memos will differ in structure and sources while sharing one framing of the question. A seminar that should surface competing frames ends up comparing phrasings of a single one ([Deng, Brucks & Toubia, 2026](https://arxiv.org/abs/2602.20408)).
 
-## III. What Finished Work Can No Longer Carry
+## III. What the Finished Memo Cannot Show
 
-The finished product still matters. But if the artifact now carries less of the evidence, faculty need to know how much less, and what has to carry the rest. A paper can show structure, balance, disciplinary vocabulary, and clean prose while leaving the student's actual contribution unclear. A product can be better than an unaided version and still leave faculty unsure who owned the purpose, the frame, the reliance decisions, and the final judgment.
+The finished memo still matters. But if it now carries less of the evidence, faculty need to know how much less, and what has to carry the rest. A memo can show structure, balance, disciplinary vocabulary, and clean prose while leaving the student's actual contribution unclear.
 
-Bastani and colleagues provide a bounded warning. In their high-school mathematics experiment, ordinary GPT-style assistance improved supported practice while the group subsequently performed worse without that assistance; a tutor with teacher-informed safeguards largely mitigated the negative effect. The study concerns a particular mathematics setting and tool design. It does not establish what will happen in a university history seminar or engineering course. It does show why assisted performance and subsequent independent performance deserve separate observation. [Bastani et al., 2025](https://doi.org/10.1073/pnas.2422633122).
+Bastani and colleagues found that high-school mathematics students using an unrestricted GPT-4 tutor improved during practice and then scored 17 percent worse than peers without access once the tool was removed. A version with teacher-designed safeguards largely avoided the loss ([Bastani et al., 2025](https://doi.org/10.1073/pnas.2422633122)). The study is about one subject and one tool design. Its lesson for a university course is that assisted performance and independent performance are two different observations, and a course that needs both has to look at both.
 
-For a course, the next question is which reasoning students need to perform independently and which they need to perform well with assistance. That decision belongs in the learning objective. An instructor teaching statistical inference may accept help formatting a chart while requiring the student to explain the population claim. An instructor teaching visualization may need to observe the chart decisions themselves.
+That decision belongs in the learning objective. An instructor teaching research methods may accept AI help finding and formatting sources while requiring the student to explain what each study measured. An instructor teaching policy writing may care most about whether the student can direct AI through a literature quickly and defend what she kept. Both are legitimate. Neither can be read off the finished memo.
 
-## IV. Purpose as the Irreducible Human Act
+## IV. The Student Decides What Counts as Success
 
-AI can propose a purpose, generate alternatives, surface assumptions, and identify contradictions. A person must still decide whether the proposed goal and criteria should govern the work. Human authorization is the obligation at issue. It does not require the student to originate every idea.
+AI can propose goals, criteria, and definitions. It proposed one in the memo case, when it quietly defined productivity. What it cannot do is decide that its proposal should govern the work. Someone has to accept that definition or replace it, and that person answers for the choice.
 
-In a course, authority over purpose is shared and bounded. Faculty establish learning objectives and assignment conditions. Students make the decisions the task entrusts to them. A precisely framed question can be good teaching when students are learning a technique, practicing an unfamiliar inference, or need support to begin. When independent framing is the intended learning, faculty need to leave a meaningful framing decision open and observe it.
+In a course, faculty set the learning objectives and usually the topic. That is good teaching. The instructor in this case supplied the firm, the question, and a reading list. The consequential framing choice still belongs to the student. She decides what productivity should mean for this firm, which evidence bears on that meaning, and what a good recommendation has to accomplish. Two strong students could frame it differently, one around retention and one around development, and both could earn full marks if they defend the choice.
 
-In the survey example, an instructor can supply the question “What does this response pattern let us say?” The student still has consequential work to do. They must identify the relevant population and explain the limits of the inference. Requiring them to invent a campus policy problem would add a different demand and might obscure the skill being taught.
+Faculty can widen that choice as students advance. A first-year student might choose between two definitions the instructor names. A senior might be handed a firm with no guidance and asked to decide which questions matter before she reads anything. The discipline stays the same: the student names the purpose before the model's structure arrives, because deciding what problem to solve is the judgment the assignment exists to build.
 
-As students gain knowledge, faculty can widen the choices they must justify. Students might compare survey designs, decide what evidence a decision needs, or challenge the success criterion in a proposed policy. An AI suggestion can be useful at every stage if the learner has an appropriate way to inspect it.
+## V. Directing AI Well Is a Skill With Levels
 
-The original essay connects purpose to frame: the definition of the problem, its assumptions, and the standard for an adequate answer. That connection travels well across domains. The division of authority must be specified again for each assignment.
+The original essay describes a progression of where human judgment enters an AI workflow. It gives faculty a way to set a target for their course.
 
-## V. Appropriate Reliance as a Teachable Competency
+At the bottom is minimal prompting. "Summarize the research on remote work" inherits the model's frame almost entirely, and that is where most students start.
 
-The educational target is specific. Students need to decide when to accept support, when to verify it, when to change the task, and when to withhold reliance. General confidence or general distrust gives an instructor little information about those decisions.
+One level up, the student states her purpose and criteria: "My firm hires mostly new graduates. Sort these studies by what they measured, which workers they followed, and for how long, and flag any finding about training or promotion." She has moved her judgment upstream, and the output now works for her question.
 
-In the survey exercise, a student may accept the calculation of 80 out of 100 after checking it, revise the claim to refer to respondents, and request information about how responses were obtained. These are different actions with different reasons. A useful trace records the consequential choice and its basis; saving every prompt would add volume without necessarily revealing understanding.
+Above that is the evaluator loop. The student has one agent argue for the firm's managers and another for its newest employees, or has the model critique her draft against the standard she set. The disagreement is the point. She learns where her frame is weak before a reader finds it.
 
-The student also needs enough subject knowledge to recognize what requires checking. Asking a second model whether the first is right may generate useful criticism, but agreement between them does not supply independent evidence about the survey. The check should return to the data, the sampling process, and the relevant disciplinary reasoning.
+At the top, advanced students build reusable workflows with defined review steps, or assign several agents distinct roles and moderate between them. That is the second student in the opening scene. It is a reasonable target for a capstone or graduate seminar. It is too much to ask of a first-year student who has not yet learned to read a study's methods section.
 
-Faculty should model that distinction in their own work. They can show where an AI contribution improved an explanation, where a supplied source failed to support it, and why they kept a particular suggestion. Students then practice on a fresh contribution, with support recorded when it supplies part of the reasoning.
+At every level the student also decides what to rely on. In the memo case she should accept the model's summary of each study's design after checking it against the abstracts, since that is quick to verify and the model was right. She should not accept its verdict that the evidence is "mixed," because that verdict depends on a frame she has rejected. Asking a second model whether the first is right does not settle anything. The check goes back to the studies themselves ([Raees & Papangelis, 2026](https://arxiv.org/abs/2604.23896)).
 
-A reusable workflow can make review points explicit. Its complexity should follow the task. A student explaining one sampling decision may provide better evidence of learning than a complicated agent workflow whose assumptions remain unexamined.
+Faculty should model this in front of students. An instructor who walks through her own prompts for a literature review, shows where the model helped, and shows the definition she refused to accept teaches more than a policy statement does.
 
-## VI. Friction as Developmental Design
+## VI. Protect the Effort That Builds Judgment
 
-Some work looks inefficient because it is how judgment forms. The first attempt to connect two sources can reveal a gap that a fluent synthesis conceals. A calculation can expose a mistaken denominator. Revising a paragraph can be the moment a student discovers what the argument actually says.
+Some work looks inefficient because it is waste. Some looks inefficient because it is how judgment forms. AI removes both without telling the difference.
 
-Other effort consumes time without advancing the current objective. Faculty have to make that distinction in context. Search, drafting, calculation, and formatting may be reasonable places for assistance in one assignment and the very practices being taught in another. They cannot be classified once for the whole institution.
+In the memo assignment, finding sources, formatting citations, and drafting routine sections are reasonable places for AI to help. Reading one study closely enough to know what it measured is not. That effort is what lets a student see that a call-center experiment and a software team's code reviews cannot be averaged. Skip it, and she has no way to judge the synthesis she is handed.
 
-The strongest objection to requiring students to critique AI is that novices may lack the knowledge to do it. That objection should change the sequence. Model the relevant reasoning, provide a worked example, check a manageable prerequisite, then ask for a decision within reach. If a student cannot distinguish respondents from invitees, begin there before presenting a persuasive population claim.
+Novices often lack that knowledge, and the answer is to teach it inside the assignment. Before AI enters, ask the student to read one study and say what it measured, who the workers were, and what it cannot tell the firm. If she cannot, teach that there, then continue. Foundations belong inside the loop. Higher-education researchers reach the same design principle: preserve productive struggle before AI engagement, and sequence AI-free and AI-mediated phases on purpose ([Vendrell & Johnston, 2026](https://doi.org/10.1016/j.caeai.2026.100572)).
 
-This also changes how independent work is used. A short attempt can help an instructor see the learner's starting point. It should not become a rule that students must struggle without instruction or lose communication and accessibility supports. Record what help was available and ask what the response demonstrates under those conditions.
+Students also need to meet a tool that helps, one that tempts them forward too fast, one that is partly wrong, and a changed case where yesterday's reasonable answer no longer fits. If instructors do not decide which effort matters, AI decides by default.
 
-Students should encounter useful assistance, partially wrong assistance, and a changed task where a previously reasonable answer needs revision. The aim is to practice choosing among those situations. The sequence and its instructional cost still need testing in the course.
+## VII. The Person Who Sets the Standard Answers for It
 
-## VII. Accountability Is Structural
+The student who defined productivity as short-run output answers for the memo that follows from it. "The research shows hybrid is the balance" is not a defense. It is the model's frame with the model's name taken off. If the firm adopts the recommendation and loses a cohort of junior staff, the question of who chose that standard should have an answer, and the answer is the student.
 
-An AI-generated explanation cannot take responsibility for a student's submitted claim. The student should be able to say what they accepted, what they checked, and why they now stand behind the answer. Faculty must make those expectations explicit and proportionate to the student's role.
+That responsibility is scaled to a student's role. She is not approving a firm's policy. She is answerable for the claims she submits and the standard behind them, and she should be able to say what she accepted, what she refused, and why she still stands behind the recommendation.
 
-This is a narrower responsibility than the command accountability in the original essay. A student analyzing a campus survey has no authority to approve spending or determine transport policy. An instructor who uses AI to propose grades remains responsible for assessment decisions and the review students can seek. A program that supplies an AI system retains responsibility for its own implementation choices.
+The same structure applies up the chain. An instructor who uses AI to draft feedback or propose grades answers for those assessments. A program that deploys an AI system answers for how it is configured. The person who sets the standard answers for the result at every role.
 
-Keeping those roles visible avoids turning “own the judgment” into a demand that students absorb every failure in the surrounding system. Students can acknowledge uncertainty, seek help, or refuse to make a claim the evidence cannot support. Those can be responsible decisions.
+Group work hides this. A polished team memo can conceal who made the consequential framing choice. Ask each member to explain the standard the group chose and how they would apply it to a changed case.
 
-In group work, a polished collective product can conceal who made which consequential choice. Faculty can ask team members to explain their contribution and examine a changed condition individually where that evidence serves the objective. The amount of observation should be justified by what it reveals.
+## VIII. Assessing the Frame, Not Only the Memo
 
-## VIII. Assessment That Makes Ownership Visible
+If finished work carries less evidence, assessment has to make ownership visible inside the work. That means three short pieces of evidence alongside the memo.
 
-If finished artifacts carry less evidentiary weight, assessment has to make ownership visible inside the work. Faculty need evidence of how the student represented the problem, used assistance, and responded when the conditions changed.
+The first is frame evidence. Before submitting, the student writes a few sentences naming the question she answered, what she took productivity to mean, and what evidence would change her recommendation. A paragraph is enough.
 
-Frame evidence can be a few sentences identifying the question, an assumption, and what would count as an adequate answer. Where the instructor supplied the frame, the student can explain the boundary within which they worked. They need not manufacture an original purpose to satisfy a form.
+The second is reliance evidence. She names one AI contribution she accepted, one she refused, and the check behind each. A short follow-up, spoken or written, tests whether she can defend those choices or only recorded them afterward. Oral questioning gives an assessor a much richer view of reasoning than a static written answer, because the assessor can follow up ([Theobold, 2021](https://www.tandfonline.com/doi/full/10.1080/26939169.2021.1914527)).
 
-Reliance evidence should identify a consequential contribution and the reason for accepting, checking, revising, or refusing it. A short follow-up can probe that reason. Oral discussion is one option; an annotated calculation, written exchange, diagram, or demonstration may serve better. A polished explanation can be rehearsed, and a hesitant one can reflect communication demands. Neither alone settles ownership.
+The third is a changed case. Hand her a different firm: an established call center whose staff average ten years of experience and are rarely promoted out of their roles. The Ctrip evidence is now the most relevant, and development evidence matters less. A student who owns her framing discipline asks again what productivity should mean here and reaches a different emphasis. A student who memorized "juniors need proximity" repeats it.
 
-A changed condition supplies another observation. Suppose the survey instead used a random sample of 100 students from the target population, all 100 responded, and 80 supported extended hours. The grounds for a population estimate improve. Sampling uncertainty remains, and a funding recommendation still needs additional information. A student who repeats “all surveys are biased” has missed what changed.
+Grade the defense, not the conclusion. Credit the student who states her standard and why it fits, names an alternative frame she did not adopt, uses evidence that bears on her standard, and explains what would change her answer. Do not credit balance for its own sake, suspicion for its own sake, or changing one's mind as a goal.
 
-This is a near-transfer check within one task. It does not establish long-term retention or transfer across disciplines. Those claims require later observations under suitable conditions. Assessment should preserve that distinction in what it reports.
+This adds work for faculty. Start with one assignment and one changed case, and compare what the added evidence reveals with what the memo alone showed.
 
-Faculty workload is a real constraint. Start with one consequential decision in an existing assignment. Compare what instructors learn from the final product alone with what the added observation reveals, and record the time required. A longer trace is justified only if it helps make a better instructional judgment.
+## IX. A Pilot in One Course
 
-## IX. A Foundation Pilot
+The original essay's five-step pilot carries over directly.
 
-Begin with instructors practicing against this essay in the interactive workbench. Choose a claim they might dispute, state an initial judgment, inspect a constructed AI contribution, and reconsider under a changed condition. Save the reasoning they actually offered and the disagreements that remain. An assistant's agreement is not validation of the essay.
+1. **Frame unaided.** Students write a short frame without AI: what the firm's question is, what productivity should mean for it, and what evidence they would need. Score it for completion. This is also where the instructor finds out who cannot yet read a study's design and teaches it.
+2. **Direct AI against the frame.** Students take their frame to AI with a specific task: find assumptions I missed, argue the firm's side and the new hires' side, tell me which of these studies does not fit my standard. They record what they kept and why.
+3. **Meet the misframed synthesis.** Students receive the fluent "evidence is mixed" synthesis from Section II.
+4. **Diagnose and revise.** They name the hidden frame, what it suppressed, and where it fails for their firm, then revise their memo.
+5. **Defend.** A short follow-up on their reliance decisions, then the changed call-center case.
 
-Then adapt the sequence to one course assignment. In the survey case, the instructor establishes whether students can identify the denominator and distinguish respondents from the target population. Missing foundations receive teaching before the inference task continues.
+Two instructors can review a handful of the records together and compare what they infer. Where they disagree, the prompt or the rubric usually needs work.
 
-Students offer a brief initial interpretation with the agreed supports. They inspect the constructed survey summary and decide what to accept, check, revise, or refuse. The instructor asks one follow-up about the decision, then introduces the random-sample condition. Students explain what changes and what remains unresolved.
+Other disciplines need their own version of the misframed answer. In history, it might be a synthesis of the historiography that averages scholars who were asking different questions. In engineering, a design review that optimizes cost when the requirement that matters is failure tolerance. The structure holds: the output is accurate, and it answers a question other than the one that matters.
 
-A short record preserves the initial interpretation, the reliance decision, the changed-condition response, and any help that supplied reasoning. A student can retain a well-supported position. Revision is useful evidence when warranted; changing one's mind is not the scoring target.
+## X. What Departments Can Build
 
-Two instructors can review a small set of these records and compare what they infer. Disagreement may reveal an ambiguous prompt, an unstated disciplinary standard, or inadequate evidence. Revise the exercise before expanding it. This is a proposed pilot, with no learning gain claimed from its design alone.
+Faculty already bring the judgment this work needs. They know when an inference outruns its evidence and when a student is performing sophistication rather than owning it. What most need in addition is enough command of current AI tools to direct them at the level they ask of students, see where they help and fail, and model those decisions in class. Some faculty are already there. Others can get there by working through the same assignments their students will do.
 
-## X. The Institutional Opportunity
+A department can build that capacity together. Have instructors run the same misframed synthesis, compare the questions they would ask, and agree on what a strong defense looks like. Keep a small library of misframed answers for the discipline, each with its frame flaw named, an AI contribution worth accepting, and a changed case. Include examples where the model was right, so the library does not teach reflexive distrust.
 
-Faculty already bring disciplinary judgment to this work. They know when an inference outruns evidence, when a source has been used carelessly, and when an explanation misses the question. They need enough practical experience with AI to see how those failures can arise inside useful assistance and to model the decisions students should learn.
+Shared prompts and rubrics carry assumptions into every course that reuses them. A prompt that defines a good literature review, or a rubric that rewards confident prose, will reproduce its frame at scale. Those assumptions should be written down and open to faculty revision, the same way the assignment asks students to expose theirs.
 
-A department can build that capacity through shared practice. Have instructors inspect the same contribution, compare the questions they would ask, and discuss what a student response would warrant. Preserve a useful example, the assumptions behind it, the support it needs, and the evidence still missing.
+## XI. Return to the Two Students
 
-Reusable prompts and rubrics carry choices into later teaching. A source kit may privilege one kind of evidence. A rubric may reward verbal confidence. An exercise may assume knowledge an introductory student has not yet acquired. Those assumptions should be visible and open to faculty revision.
+The second student's memo is better, and that matters. The question is whether either student can say what productivity should mean for this firm, why, and what would change her answer. The first student may need practice directing AI. The second may need to show that the frame was hers.
 
-The institutional opportunity is to make instructor learning accumulate. A reviewed example and a clear account of where it failed can help the next instructor more than a large collection of untested prompts. Keep proposals, instructor review, and classroom observations distinct so the collection remains honest as it grows.
+Pick one assignment where students synthesize sources. Write the misframed AI answer your students are most likely to get, one contribution worth accepting, and a changed case that makes different evidence decisive. Run it once and review the records with a colleague.
 
-## XI. Conclusion
+## References
 
-Return to the two students. The stronger paper matters. So does the student's ability to explain the reasoning that produced it and to respond when its assumptions no longer hold. The student who worked alone may need practice using useful assistance. The student who worked with AI may need instruction in a concept the polished answer concealed. Either may have exercised sound judgment.
+Bastani, H., Bastani, O., Sungu, A., Ge, H., Kabakcı, Ö., & Mariman, R. (2025). Generative AI without guardrails can harm learning: Evidence from high school mathematics. *Proceedings of the National Academy of Sciences, 122*(26), e2422633122. <https://doi.org/10.1073/pnas.2422633122>
 
-Faculty can find out by choosing a consequential decision and making it observable. Start with one assignment: identify the knowledge it requires, the choice students should make, the assistance they may use, and a changed condition that would test their reasons. Run it, inspect what the added evidence actually reveals, and revise it with a colleague.
+Bloom, N., Han, R., & Liang, J. (2024). Hybrid working from home improves retention without damaging performance. *Nature, 630*, 920–925. <https://www.nature.com/articles/s41586-024-07500-2>
 
-## Sources and scope
+Bloom, N., Liang, J., Roberts, J., & Ying, Z. J. (2015). Does working from home work? Evidence from a Chinese experiment. *Quarterly Journal of Economics, 130*(1), 165–218. <https://doi.org/10.1093/qje/qju032>
 
-This edition retains the original essay's eleven-section progression and seven failure modes. Its eight claims are mapped in the [adaptation record](adaptation-map.md). The [original source spine](../sources/source-spine.md) distinguishes empirical work, conceptual arguments, and commentary. Those sources do not validate this HE pilot.
+Deng, Y., Brucks, M., & Toubia, O. (2026). Examining and addressing barriers to diversity in LLM-generated ideas. arXiv:2602.20408. <https://arxiv.org/abs/2602.20408>
 
-Bastani et al. (2025), [Generative AI without guardrails can harm learning](https://doi.org/10.1073/pnas.2422633122), provides the bounded mathematics finding discussed in Section III. The [audience foundation notes](../sources/audience-foundations.md) describe the basis and limits of the readiness and modeling approach. The survey is fictional. Other disciplines require their own evidence standards and instructor review.
+Emanuel, N., Harrington, E., & Pallais, A. (2023). The power of proximity to coworkers: Training for tomorrow or productivity today? NBER Working Paper 31880. <https://www.nber.org/papers/w31880>
+
+Raees, M., & Papangelis, K. (2026). From trust to appropriate reliance: Measurement constructs in human-AI decision-making. arXiv:2604.23896. <https://arxiv.org/abs/2604.23896>
+
+Theobold, A. S. (2021). Oral exams: A more meaningful assessment of students' understanding. *Journal of Statistics and Data Science Education, 29*(2), 156–159. <https://www.tandfonline.com/doi/full/10.1080/26939169.2021.1914527>
+
+Vendrell, M., & Johnston, S.-K. (2026). Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher education. *Computers and Education: Artificial Intelligence, 10*, 100572. <https://doi.org/10.1016/j.caeai.2026.100572>

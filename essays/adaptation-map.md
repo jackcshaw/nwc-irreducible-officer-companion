@@ -1,59 +1,50 @@
 # Companion essay adaptation record
 
-September 25, 2026. Testing editions. Both essays were adapted directly from *The Irreducible Officer*. They retain its eleven-section progression, eight-claim dependency, and seven failure modes. They retain selected wording, but rewrite much of the narrative where the learner's knowledge, authority, or educational setting changes. This is structural portability, not a claim that most sentences remain verbatim.
+September 25, 2026, second testing drafts. Both essays adapt *The Irreducible Officer* directly and keep its thesis: the goal is learners who direct AI toward a purpose they own, rely on it selectively, and defend the result. Each edition's headings and depth follow its own argument, so the section counts differ. The [original](../the-irreducible-officer.md) and [canonical claim map](../claims.md) remain unchanged. The [revised spine](../tasks/companion-essay-spine.md) records the decisions behind this pass.
 
-Read [Judgment in Higher Education](he.md) or [Learning to Exercise Judgment](k12.md). The [original](../the-irreducible-officer.md) and [canonical claim map](../claims.md) remain unchanged.
+Read [Judgment in Higher Education](he.md) or [Learning to Exercise Judgment](k12.md).
 
-## Section-by-section changes
+## What changed from the first drafts
 
-| Original section | HE edition | High-school educator edition |
+The first drafts made foundations the destination and left critique of AI output as the only student AI activity. Their examples, a campus survey and two surface-temperature readings, each had one right answer reachable with a textbook rule. This pass:
+
+- restores the original's contrast, with the AI-directing student as the model and the capable unaided student as the harder case;
+- restores the five-step pilot, including the step where students direct AI against their own frame;
+- adds the directing-AI progression from the original's Section V, set to each level;
+- replaces both examples with cases that pass the five tests in [frame-first assignment design](../artifacts/frame-first-assignment-design.md);
+- keeps only the failure modes each example shows;
+- removes repeated caveats and product or facilitator text, which belongs in the audience guides and facilitator.
+
+## Examples
+
+| Edition | Case | Frame flaw in the AI answer | Changed case |
+| --- | --- | --- | --- |
+| HE | Research memo for a firm deciding on return to office | Accurate study summaries; "productivity" silently means short-run output averaged across workers | An experienced call-center workforce, where different evidence decides |
+| High school | "Was the New Deal a success?" in US History | Accurate figures and programs; success silently means recovery and durability, never "for whom" | Whether the school's phone policy is a success |
+
+## Claim check against claims.md
+
+| Canonical claim | HE | High school |
 | --- | --- | --- |
-| I. Performance standard | Two students; disciplinary understanding and useful assisted performance; agent orchestration optional. | Two students; prerequisite subject knowledge and teacher modeling explicit at the outset. |
-| II. Problem and failures | Same seven failures tested through a fictional survey; correct arithmetic separated from population inference. | Same seven failures tested through fictional surface temperatures; bounded inference separated from facilities decisions. |
-| III. Finished work | Original product/evidence distinction retained; mathematics study scoped and safeguard result included. | Same evidence distinction; access and communication support separated from reasoning support. |
-| IV. Purpose | Human authorization, including acceptance of AI-proposed goals; supplied frames legitimate when matched to the objective. | Teachers establish purpose and bounded choices; students may accept a defensible suggestion. |
-| V. Reliance | Consequential accept/check/revise/refuse choices; independent check returns to disciplinary evidence. | Knowledge and explicit modeling precede critique where needed; general distrust not rewarded. |
-| VI. Friction | Search, drafting, calculation can be target learning; effort classified by assignment. | Missing knowledge triggers instruction; support is responsive to readiness, not a fixed age ladder. |
-| VII. Accountability | Student academic choices, faculty assessment, and institutional implementation separated. | Student claims bounded; adult responsibility for materials, access, assessment and school decisions explicit. |
-| VIII. Assessment | Multiple response formats; explanations not conclusive; changed sampling process tests reasons. | Multiple formats; matched-material comparison tests reasons; coached responses identified. |
-| IX. Pilot | Educator tests essay first; interactive course adaptation; review disagreement and workload. | Teacher tests essay first; shared-screen or teacher-led student activity; no individual AI account required. |
-| X. Institution | Discipline-specific faculty learning saved with assumptions and review status. | Teacher team reviews prerequisites and support; downward adaptation remains separate work. |
-| XI. Conclusion | Return to learners; select one consequential decision and test it. | Return to learners; teach missing concepts and choose the next step from observed reasoning. |
+| 1. AI changes the performance standard | I: the bar went up; unaided student as harder case | I: same contrast in a history class |
+| 2. Finished artifacts carry less evidentiary weight | III, VIII | VII |
+| 3. Purpose is expressed through frame | IV: student decides what productivity means | III: teacher sets lesson purpose, student sets the argument's standard |
+| 4. Appropriate reliance is teachable | V: levels of directing AI; accept study summaries, refuse the verdict | IV: perspectives checked against the packet |
+| 5. Developmental friction builds judgment | VI: foundations inside the loop | V: sourcing taught inside the loop; Bastani |
+| 6. Accountability is structural | VII: whoever sets the standard answers, at every role | VI: same, scaled to students |
+| 7. Assessment makes ownership visible | VIII: frame, reliance, changed case; grade the defense | VII: defended-argument rubric and phone-policy case |
+| 8. Faculty judgment and AI fluency accumulate | IX–X: shared misframed-answer library, visible assumptions | VIII–IX: teacher team library; younger grades need their own design |
 
-## Eight-claim check against claims.md
+## Evidence
 
-| Canonical claim | Preserved in both editions | Necessary qualification |
-| --- | --- | --- |
-| 1. AI changes the performance standard | I–II: useful AI capability plus visible human judgment. | Standard follows subject and stage; multi-agent command is not universal. |
-| 2. Finished artifacts carry less evidentiary weight | III, VIII: inspect product and decisions. | Assisted performance remains real; no blanket claim about learning loss. |
-| 3. Purpose is expressed through frame | IV: question, assumptions, adequate answer. | Instructor-supplied purpose legitimate; AI can suggest goals. |
-| 4. Appropriate reliance is teachable | II, V, IX: accept/check/revise/refuse with reasons. | Teaching design proposed; task knowledge and reliable checks required. |
-| 5. Developmental friction builds judgment | VI: preserve the practice serving the objective. | Missing knowledge needs teaching; access supports remain. |
-| 6. Accountability is structural | VII: named human roles remain answerable. | Officer command responsibility does not transfer to university students or children. |
-| 7. Assessment makes ownership visible | VIII–IX: initial decision, contribution, changed condition, lean record. | No single response proves ownership; near transfer is not durable transfer. |
-| 8. Faculty judgment and AI fluency accumulate | IX–X: educator practice, shared examples, review and revision. | No claimed educator approval, classroom validation, or learning gain. |
+New case facts were checked on September 25, 2026 against Bloom et al. (2015, *QJE*), Bloom, Han and Liang (2024, *Nature*), Emanuel, Harrington and Pallais (2023, NBER), DeWitt (2010, *Social Security Bulletin*), and the BLS/Lebergott unemployment series. Bastani et al. (2025) and EEF are scoped as before. The original's aviation and command sources stay in the PME essay.
 
-## Evidence and editorial review
+## Voice review
 
-PNAS original inspected September 25, 2026. Both editions include the safeguard finding alongside the unsupported-performance finding. EEF original inspected the same day; its recommendations support the modeling rationale, not this exercise's effectiveness. Fictional cases stay consistent with the existing audience guides. No new empirical claims about school or university outcomes have been added.
+Mechanical: pass (script), `writing-as-jack/scripts/jack_eval.py` on both scratch drafts; repo files match the scanned content.
 
-The original's aviation analogy and unpublished command discussion stay in the PME source. They are not used as proof of HE or school outcomes. Canonical source notes remain available for challenges to the original argument.
+Judgment checks are recorded in the review conversation and stay advisory; Jack remains the judge of voice.
 
-Mechanical: pass (script), using writing-as-jack/scripts/jack_eval.py on both scratch drafts; delivered essay files match the scanned content.
-First paragraph: pass
-Warmth: n/a — educator essays
-Concrete ask: pass
-Plain uncertainty: pass
-Slack polish: n/a
-Forwardable: pass
-Posture: pass — instructional proposals, no borrowed practitioner authority
-Receipts: pass — study claims linked and scoped
-Concrete behavior: pass
-Source boundary: pass
-Interpretive residue: pass
-Synthetic symmetry: pass — shared sections preserve the requested adaptation structure; examples and depth differ by setting
-Ends with action: pass
+## Still needed
 
-## Checks still requiring people
-
-An educator must review the subject demands and actual learner readiness. A live assistant session needs inspection for waiting, diagnosis leakage, warranted acceptance, disagreement, and honest saved records. Classroom use must test whether the added evidence changes an instructional judgment at an acceptable cost. These are pending observations, not defects software tests can certify away.
+An educator in each setting should review the case, the documents or reading list it assumes, and the rubric. The audience guides, interactive context, site build, and workbench profiles still carry the old examples and need updating once these drafts are accepted.
