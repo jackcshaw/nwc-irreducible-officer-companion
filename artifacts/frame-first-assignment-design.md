@@ -92,6 +92,21 @@ These ratings are the anchor examples for the future rater. Strong means the tes
 | "Why did the Salem witch trials happen?" (HE history) | Strong: accurate historiography summaries presented as additive "factors," with rejected ergot hypothesis given equal billing | Strong: which question the paper answers (who accused whom, why these women, why 1692) | Strong: have AI state each historian's question and evidence; argue Norton against Boyer and Nissenbaum | Strong: each book's central argument, checked against its introduction or a review | Strong: "why did the trials end?" makes spectral-evidence debate decisive | Adopted as HE translation example; needs a history instructor's review |
 | Vibrating mounting bracket material choice (HE engineering) | Strong: correct property data in a weighted matrix that treats fatigue life as a preference | Strong: which requirements are must-meet versus tradeoffs | Strong: have AI list service-life failure modes before scoring; assign a reliability reviewer | Strong: density and cost data, checked against a handbook | Strong: a low-cycle test fixture makes the aluminum answer right | Adopted as HE translation example; needs an engineering instructor's review |
 | PME misframed strategic assessment (original essay, Step 3) | Strong: internally coherent, grounded in the wrong understanding of the situation | Strong | Strong: Step 2 AI challenge | Varies by case | Strong | Reference design |
+| PME outage attribution: AI blames all 12 outages on equipment updates because 8 followed them | Fails: "correlation isn't causation" catches it | Fails: the question is supplied | Fails: inspect-only | Strong: the count of outages after updates | Fails: diagnostic evidence only removes the error | Weak example for the PME primer |
+| PME exercise-window rollback: accurate defect analysis recommends an immediate fleet-wide rollback when the decision is sustaining operations through an exercise window | Strong: the success criterion is fixing the defect fastest, not sustaining operations | Strong: speed of repair versus operational continuity | Strong: have AI model the operational risk of rolling back now versus after the window | Strong: the defect diagnosis, checked against the diagnostic evidence | Strong: a quiet period with no exercise makes the immediate rollback right | Strong example for the PME primer; fictional; needs PME faculty review |
+
+## Frame Check workflow
+
+Frame Check, the workbench tool built on these criteria, builds a case in six steps. It explains every rating through the test it applies, so educators learn the pattern as well as the verdict.
+
+1. Collect the subject, level, learning objective, and the educator's real materials. Nothing is generated from memory.
+2. Name the target skill: the frame the student must own.
+3. Propose two or three candidate cases. Rate each against the five tests (strong, weak, fails), answering each Ask question and naming any failure pattern.
+4. Recommend one and say what it gives up. The educator chooses.
+5. Pressure-test the choice: stock-phrase test; the contribution worth accepting and its check; a changed case that makes different evidence decisive; the factual claims to verify.
+6. Build the full assignment: question, at least two defensible frames, a misframed AI answer that is factually sound, one contribution worth accepting with its check, a level-appropriate directing-AI task, the changed case, and a defended-frame rubric.
+
+To repair an existing case, rate it, name its failure pattern, and propose the smallest change that keeps the educator's material; rebuild only when repair cannot reach a passing case.
 
 ## Notes for an assignment generator
 
