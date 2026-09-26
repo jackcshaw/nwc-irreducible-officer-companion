@@ -1,0 +1,579 @@
+{
+  "url": "https://nwc-learning-companion--audience-refresh-zkiwg8wa.web.app",
+  "checked_at": "2026-09-25T18:56:26.316563+00:00",
+  "edition": "2026-09-companion-essays",
+  "files": [
+    {
+      "path": "assets/asking-to-supervising.svg",
+      "match": true,
+      "sha256": "c79644f7fff8d54ff1f207274c7459a7baeb800968f7e97edd8ac60fa32eb1c9",
+      "cache_control": "public, max-age=86400"
+    },
+    {
+      "path": "assets/audiences/evidence-notes.md",
+      "match": true,
+      "sha256": "4ff93d521c5ac84b0a036729eff558b4bcb64f2bfd54b185d4b005a85c2ecd70",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/audiences/he.md",
+      "match": true,
+      "sha256": "d1e1d4419382571575618bac9ed49d588a3cb62cb463bd5a34e079a8757d645c",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/audiences/k12.md",
+      "match": true,
+      "sha256": "ca5b59fd1f0471d972a376781a2ff4d65ff456e60a6d17532a37d34c4a7cb0d2",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/audiences/pme.md",
+      "match": true,
+      "sha256": "2ac31bba3136d6708f62bf0b1f3c1fdf6ecf41c059cdb2cbd4ac3c2cb892b435",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/audiences/shared-foundations.md",
+      "match": true,
+      "sha256": "d87b0b1c9bb9c310b48417def9ec0e657c2e89046489fa34e84cf107903f6ca5",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/claims.md",
+      "match": true,
+      "sha256": "c992cdedce911aba4ee4e8978183eea118f9d72532e8a18c6af4d7d0ab3e13f9",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/companion-context.md",
+      "match": true,
+      "sha256": "1b28cb8fcd9401d990fe19291d25033f7851e4e1ab18f2f09705c21be3e9b2d3",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/essay.md",
+      "match": true,
+      "sha256": "92e65d59bd51af95662340661458aea486cbb6fde86813d79e6d69fc760b29fa",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/essays/adaptation-map.md",
+      "match": true,
+      "sha256": "32ddc4ae609026151cf222a573496afb1acdc22acccc6b761054c2daf2ec4a6b",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/essays/he.md",
+      "match": true,
+      "sha256": "448a081a60222294ba8765b9a89f3822b8386b0d7408594db4c6a5ce799c6570",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/essays/k12.md",
+      "match": true,
+      "sha256": "cab52dd17f5f1d3537450c044d93bb32d274e75d654fcbfedf3bda951c445de3",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/judgment-lab-interactive-context.md",
+      "match": true,
+      "sha256": "1273b67fe99232599bfd165351f57ad4548a47854d75a90061f24bcf0617297c",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/release.json",
+      "match": true,
+      "sha256": "fffa45bc72d8c0692c6a43015ddc2c35c0e771cdc40ee8885144c2ee03728ac5",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/share-card.png",
+      "match": true,
+      "sha256": "98732795b0de17253431a36240f743f10bc9b6541c2e4fa1342c156f9589ee3c",
+      "cache_control": "public, max-age=86400"
+    },
+    {
+      "path": "assets/sources/audience-foundations.md",
+      "match": true,
+      "sha256": "4ff93d521c5ac84b0a036729eff558b4bcb64f2bfd54b185d4b005a85c2ecd70",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/sources/source-spine.md",
+      "match": true,
+      "sha256": "237b40f501270a7dc70d8e21b1074830f7a6a03c508d8ac54de777bd65f4935e",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/the-irreducible-officer.md",
+      "match": true,
+      "sha256": "92e65d59bd51af95662340661458aea486cbb6fde86813d79e6d69fc760b29fa",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/the-irreducible-officer.pdf",
+      "match": true,
+      "sha256": "dc9e4e67d92a37bbbb97ebb6e2735fd49707e463550b2a674a8cc9c9a13a9783",
+      "cache_control": "public, max-age=86400"
+    },
+    {
+      "path": "assets/workbench/after-action-note-template.md",
+      "match": true,
+      "sha256": "117f86dd86365092248ea9353012fd031b91d269f55cba8236b83319b148afcb",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/assessment-and-oral-defense-rubric.md",
+      "match": true,
+      "sha256": "6f26c4fe6a6cf76184ac84d5189e00a91fb1249cfd8613ea86e59f930d513ede",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/assignment-design-worksheet.md",
+      "match": true,
+      "sha256": "66aa89b12bcc919317bbf6f341b2533539513f23803c9a317cdc9232aeb1b090",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/audiences/guide.md",
+      "match": true,
+      "sha256": "ba24e5d9423c7cda17e4dad1ea15a58710ae51c8a9146b7a75549ba731d3ba47",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/audiences/he.md",
+      "match": true,
+      "sha256": "ed749e3341b805c0aadda6079aea2ed3477fb53b0dd157e52490ba6ffa42d1ae",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/audiences/k12.md",
+      "match": true,
+      "sha256": "599009ab97684d2026301ca44889484a92198085a45f79eccfe6c51c1bd3bda9",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/audiences/pme.md",
+      "match": true,
+      "sha256": "d16ab4d9abe02f3a488a41736aefa953d999cc20ab1e479420e7b405cbc663b7",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/concepts/README.md",
+      "match": true,
+      "sha256": "50b744c4e6266508958d351f8a067754532dbeef7cb58eefd6c370eeb2dc052f",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/concepts/facilitation-blocks.md",
+      "match": true,
+      "sha256": "337db0456c6f9da8e6192ea9357c7b644a1ab635d0ea89303e8cfa5bae4715d6",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/concepts/how-faculty-judgment-compounds.md",
+      "match": true,
+      "sha256": "b8f610ea46d2e615f140257f28c8747553d7a2d2626d7d9b3e74abe1399ba5fc",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/concepts/method-cards-and-agent-skills.md",
+      "match": true,
+      "sha256": "3e1611dc0b57359906e7c5f1b3373b48c45adbebc8d7d6f9ae414da688c3e029",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/concepts/source-kits-are-curated-context.md",
+      "match": true,
+      "sha256": "8c4b3a8e4c3242944a853ba5bdbc9a9908e55472bb724e1c0eff794c52f4257a",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/concepts/why-the-matrix-is-a-hypothesis.md",
+      "match": true,
+      "sha256": "093b3490a24607aeda77c375609a1c29fc9d296c72bb825180ceef193773a2d8",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/faculty-calibration-protocol.md",
+      "match": true,
+      "sha256": "a0ca4a43bf6a8a1f6b6393c3ff6a38b13ae46c22f5d91c48def82fd9b2df9a57",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/flawed-output-library-template.md",
+      "match": true,
+      "sha256": "16cfcfe19c50897f52b6a0af3530bebba3a3659c5b91f6750c8c1c926cc3f4ef",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/framework/ai-fluency-progression.md",
+      "match": true,
+      "sha256": "6e7f8173b5fbcb50717204695ae18979a2a33de3ef1c150740f279ec98808445",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/framework/assets/asking-to-supervising.png",
+      "match": true,
+      "sha256": "f75fbe36352d159612076e0ec3d54158b21b9806ee80d2e66f3f3f4d4e3c95ed",
+      "cache_control": "public, max-age=86400"
+    },
+    {
+      "path": "assets/workbench/framework/assets/asking-to-supervising.svg",
+      "match": true,
+      "sha256": "c79644f7fff8d54ff1f207274c7459a7baeb800968f7e97edd8ac60fa32eb1c9",
+      "cache_control": "public, max-age=86400"
+    },
+    {
+      "path": "assets/workbench/framework/assets/capability-compounds.png",
+      "match": true,
+      "sha256": "00d63cb85660b5c4878b063d87d47a46339143b4b9036c21eaf3a8f2fe4dc12b",
+      "cache_control": "public, max-age=86400"
+    },
+    {
+      "path": "assets/workbench/framework/assets/capability-compounds.svg",
+      "match": true,
+      "sha256": "aa999f8a5178d418a2ae172355bee7c35c51e88d141e779cc6e2d0ae90b475eb",
+      "cache_control": "public, max-age=86400"
+    },
+    {
+      "path": "assets/workbench/framework/assets/reference-matrix.png",
+      "match": true,
+      "sha256": "132183b24fb3f3cb24d148ca9214fe7fd1b606243b856e84975cef598c290253",
+      "cache_control": "public, max-age=86400"
+    },
+    {
+      "path": "assets/workbench/framework/assets/reference-matrix.svg",
+      "match": true,
+      "sha256": "4d90b924ad52a5c3c7707bbdef0bb48a67086fd156a30b90d0b2a9b75f94d3ea",
+      "cache_control": "public, max-age=86400"
+    },
+    {
+      "path": "assets/workbench/framework/assets/tools-behind-progression.png",
+      "match": true,
+      "sha256": "6b456ed3b88080c56bee0ef580f97e74b5d102ed309a77f445bccf44bd27d149",
+      "cache_control": "public, max-age=86400"
+    },
+    {
+      "path": "assets/workbench/framework/assets/tools-behind-progression.svg",
+      "match": true,
+      "sha256": "8477c79da7e4ca4687a2b8e7f07d71254b5127d580bcc9fa9ea755973a306286",
+      "cache_control": "public, max-age=86400"
+    },
+    {
+      "path": "assets/workbench/he/after-action-note-template.md",
+      "match": true,
+      "sha256": "0c1f82599473e7ac2a5c8f7355a8f4e94af9b03978d65b4a06d794e2ad5e342d",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/he/assessment-and-oral-defense-rubric.md",
+      "match": true,
+      "sha256": "04d457ae41822c8544b979c171e6307fbbe05cd6b4365de0c14b9d789f994b50",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/he/assignment-design-worksheet.md",
+      "match": true,
+      "sha256": "03f8003cb96eb7e1ef8f7500e772e09ad8c8e31193e0648bacf0882ef33b9761",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/he/faculty-calibration-protocol.md",
+      "match": true,
+      "sha256": "aeac411b534b2a9b69a9f0e9d8d27bd329ff881cce1ddd6913116e987d64bc81",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/he/flawed-output-library-template.md",
+      "match": true,
+      "sha256": "26881ee63e6bd62121b771de939392df87ffc159833104227558dc7c7a1f3a06",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/he/framework.md",
+      "match": true,
+      "sha256": "e6a47273b41830e7b4f2336ca8c0b91a993a5d232b2680e4eb84575428d5844c",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/he/method-card-template.md",
+      "match": true,
+      "sha256": "4adcbe6b3745cbdcbc38ddacee37cbbe104cc2ef24338828eff8f3ba758e1a2f",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/he/phase-placement-diagnostic.md",
+      "match": true,
+      "sha256": "8f3fd80f04693075cf5e2350cba5713949ccf62d887be90c7b5c8a4cc4906a55",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/he/reference-matrix.svg",
+      "match": true,
+      "sha256": "36b950788ef1eb1826a7558d406bc1337eaebd5fc0bf7f725ad710543198a954",
+      "cache_control": "public, max-age=86400"
+    },
+    {
+      "path": "assets/workbench/he/source-kit-template.md",
+      "match": true,
+      "sha256": "de58971e5f93864c6dd616bc5305749f6932da2f8f7591da9636660db9caf646",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/he/supervised-delegation-exercise.md",
+      "match": true,
+      "sha256": "d6e677d3a05233f42b0d7fbfb401604d9973e67e232ee8741df969311ae46330",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/k12/after-action-note-template.md",
+      "match": true,
+      "sha256": "78d57ba9e7919dfa0a3125454a1061a997d8a6c1e6cdf2a8574403f3a852db9b",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/k12/assessment-and-oral-defense-rubric.md",
+      "match": true,
+      "sha256": "ad0f5d61a39ad0792488ba3ade09fd5571c3fa2512485444b5362880d0b0a4c9",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/k12/assignment-design-worksheet.md",
+      "match": true,
+      "sha256": "0919d2b81190710a9f586f42aa8197b06c71295d8c1df0db2bd79f83ce734642",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/k12/faculty-calibration-protocol.md",
+      "match": true,
+      "sha256": "f111298b4eae60529bf97b0d57dd5c60f8e004e2d82d51e6e05b88d7962ce415",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/k12/flawed-output-library-template.md",
+      "match": true,
+      "sha256": "2073d1204abec55ca458e6a95129b0f0488d73824a8ef2ef0725c8fbda77263b",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/k12/framework.md",
+      "match": true,
+      "sha256": "45ce3da52c6d1eb5a1fda08c6d2fc3fdda3ad6dace5179b660e03b98429cb449",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/k12/method-card-template.md",
+      "match": true,
+      "sha256": "17ca28da6b62fa6cda39e81d5d00b425ee967065dcf9cfbbd6fedd8585a8422a",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/k12/phase-placement-diagnostic.md",
+      "match": true,
+      "sha256": "3cb302609caeba13530221c866019849ddc8a7709cf7a6c5d1e789c4dac34953",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/k12/reference-matrix.svg",
+      "match": true,
+      "sha256": "36c151bd5525cc4b21e55923f3f7afe1791ee15eac280f8970509aeef010705d",
+      "cache_control": "public, max-age=86400"
+    },
+    {
+      "path": "assets/workbench/k12/source-kit-template.md",
+      "match": true,
+      "sha256": "01a33d58ce2ee8304cddd64358cdcba3a37c812bcf0b4664dea2765b87ba40c2",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/k12/supervised-delegation-exercise.md",
+      "match": true,
+      "sha256": "96abee8d7c4db456887ece4cdd7ceb9911ac6543811fd0aeac201d60311d4740",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/method-card-template.md",
+      "match": true,
+      "sha256": "8cbe6d283dd95d6bede83be0b707fdd58b3f172b5057a7162e30f5a487ca2431",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/phase-placement-diagnostic.md",
+      "match": true,
+      "sha256": "49a011aaf76fd923baeeee627fe42ba8c00bb3e0a0a328a2f5bd87826cb1e7a1",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/pme/after-action-note-template.md",
+      "match": true,
+      "sha256": "05b6a252fc35f5f1d7cebb1189d60c2ecc8ceee959c2a54eb7608c4de854d353",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/pme/assessment-and-oral-defense-rubric.md",
+      "match": true,
+      "sha256": "5db64d2e269513ecda7eb41815e8ec3d49c96e57688f63ca4f842c9107b234aa",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/pme/assignment-design-worksheet.md",
+      "match": true,
+      "sha256": "104c29727cb839534169cd738eaacedd32ff7b38abdf588d1b6edc1193829734",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/pme/faculty-calibration-protocol.md",
+      "match": true,
+      "sha256": "c0150d6edfe818e57c0465b88300812befab08b9d4762883c5d5942c3da035eb",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/pme/flawed-output-library-template.md",
+      "match": true,
+      "sha256": "b8e684f7745755640a07754b95ba59dd372a9f882aa9393b750beba78d3a75d6",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/pme/framework.md",
+      "match": true,
+      "sha256": "cad43e93505ae949d49ef7b944fa5918894115c6c6b0abd231ebaafb13f11b24",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/pme/method-card-template.md",
+      "match": true,
+      "sha256": "52376c2a9fa069170977f972ff2e1ca3c464114e3c999e733a58ab6f8f68e1e8",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/pme/phase-placement-diagnostic.md",
+      "match": true,
+      "sha256": "da6e93f0a53e7a84fbd5b9eedeb3ac6edf653e53491a4c1f61e65d9cc98b72cb",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/pme/reference-matrix.svg",
+      "match": true,
+      "sha256": "0c893d6cc8c24c2312462ac2fa260250d5816ea7e3230a894fc4a24b7c47c191",
+      "cache_control": "public, max-age=86400"
+    },
+    {
+      "path": "assets/workbench/pme/source-kit-template.md",
+      "match": true,
+      "sha256": "3792064c105b42a02bc876f812248f57e3ced469fb0c2db5b36f852b1acd178f",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/pme/supervised-delegation-exercise.md",
+      "match": true,
+      "sha256": "1bd11a48c7f3f006165f876cf5a6665f80b29708fdefac2a4099501d59adb215",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/source-kit-template.md",
+      "match": true,
+      "sha256": "91dca35c108e905ffc48fb573fff3775a971f240ba8211ec9996d06bb99fbfa1",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/supervised-delegation-exercise.md",
+      "match": true,
+      "sha256": "986d5eb92d5751e2896e50fcdf9538fd33038c277c7511cffc9a10a2f4e64e83",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/templates/after-action-note-template.md",
+      "match": true,
+      "sha256": "9e5058c01be70426ba3fd43f2e39b3c60e727bacfd05d5397476fb9f526e82d2",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/templates/assessment-and-oral-defense-rubric.md",
+      "match": true,
+      "sha256": "4a47cf8dacb9f86769c1b37b8ef5e970bf5d0ec50e2e7443742c78840ba7a2e5",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/templates/assignment-design-worksheet.md",
+      "match": true,
+      "sha256": "fa233d3850eaefb2d6df86c98dcd47addceee623e28284e9a0a8541b7503814c",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/templates/faculty-calibration-protocol.md",
+      "match": true,
+      "sha256": "f4b30d199ca15eef97f32f84bacb4e11d41333c618b9d16725c6f5cf12e5a498",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/templates/flawed-output-library-template.md",
+      "match": true,
+      "sha256": "75234899e6ed47d6a9aa5491147bd6b3787138d139c5f72d5366e11ea3c9ec07",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/templates/method-card-template.md",
+      "match": true,
+      "sha256": "d553d0c951a458abe9435b8f5e7d70d2e0f07130e5633ed04732a3396c379366",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/templates/phase-placement-diagnostic.md",
+      "match": true,
+      "sha256": "cc27d29c275a1c0b5d53c0291395d3242f1ec4a5d46fc980f503d994d19129ad",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/templates/source-kit-template.md",
+      "match": true,
+      "sha256": "878b2b40a09a8824c556248bb2040452a24d9b600404fb1280bbc9132757fc2a",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench/templates/supervised-delegation-exercise.md",
+      "match": true,
+      "sha256": "ad1f2b3aaea87b35e1778e1fda35766f2044b591506f2481cb675d4af07ff776",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench-context-he.md",
+      "match": true,
+      "sha256": "8ddb3abd2fa4daf45b1ba3b1d16c65d7bf6188c066b8945eee780cf1df710a18",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench-context-k12.md",
+      "match": true,
+      "sha256": "9cb5332f6919907b75b6a94cf8e2ba487c2c1b030b0b7699aa08b0f391419d44",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench-context-pme.md",
+      "match": true,
+      "sha256": "bb175f141ff004a7b7f2ba38a816a93eefd44258869ce93bf80a7566157c8133",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench-context.md",
+      "match": true,
+      "sha256": "ea45ab5aff5a08849b1a86e5e6a544527b2d53f9888b9847ebbed4498be88b3f",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "assets/workbench-data.json",
+      "match": true,
+      "sha256": "7bbe0d623e96a39f058995a6243767e925fc329c01d9a574464fce323299af97",
+      "cache_control": "no-cache"
+    },
+    {
+      "path": "index.html",
+      "match": true,
+      "sha256": "68284a7c2a9932c6e4f8fd69ff771736df0ac6b3124f0a5124377ce4cafbc508",
+      "cache_control": "no-cache"
+    }
+  ],
+  "production_sha256": "ebfa412937db92d2d1bf1e65e9491891f8e3aded8e07f8d5b31f851637bcc5f8",
+  "production_unchanged": true
+}

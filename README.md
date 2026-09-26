@@ -1,6 +1,8 @@
-# The Irreducible Officer: AI Companion Source
+# Judgment Lab: AI Companion Source
 
-This repo is the source kit behind the public companion for **The Irreducible Officer**, a long-form essay about purpose, accountability, and AI-enabled strategic judgment at the National War College.
+Testing edition: [open the complete preview](https://nwc-learning-companion--audience-refresh-zkiwg8wa.web.app) (through September 30). Production publication is awaiting approval. See the [testing guide and review](tasks/full-refresh-review.md).
+
+This repo supplies Judgment Lab’s shared foundation, PME / higher education / high-school guides, full companion essays, and interactive sessions. **The Irreducible Officer** remains the original argument about AI-enabled strategic judgment at the National War College.
 
 Most readers should start with the public package:
 
@@ -15,7 +17,7 @@ The companion has two jobs. It helps readers test the essay's claims, and it hel
 Paste this into your AI assistant:
 
 ```text
-You are helping me read and use the essay "The Irreducible Officer."
+You are helping me read and test the Judgment Lab essay for my setting. Use The Irreducible Officer for PME, Judgment in Higher Education for HE, or Learning to Exercise Judgment for high-school educators. Ask for my setting only if it is missing.
 
 Start by reading this public context file:
 https://judgmentlab.net/assets/companion-context.md
@@ -26,7 +28,7 @@ Do not answer from the essay alone. Use the context file to help me do one usefu
 
 Start by giving me:
 1. the cleanest version of the core claim;
-2. the part of the argument most relevant to an NWC instructor or curriculum leader;
+2. the part of the argument most relevant to my stated setting; ask PME, HE, or high school if missing;
 3. the most useful next step for my session.
 
 If I ask to inspect evidence, use the claim map and source spine. If I ask to design an exercise, use the transfer case and trace artifact. If I ask to argue with the essay, use the objections and responses.
@@ -36,11 +38,18 @@ If I ask to inspect evidence, use the claim map and source spine. If I ask to de
 
 | I want to... | Use this |
 | :-- | :-- |
+| Test the essay interactively in PME, HE, or high-school educator practice | [Failure-mode lab: testing edition](labs/failure-mode-lab/README.md) — attach its complete context to your assistant |
 | Give my AI assistant operating instructions | [`AGENTS.md`](AGENTS.md) |
-| Read the essay context | [`the-irreducible-officer.md`](the-irreducible-officer.md) |
+| Choose an audience | [PME](audiences/pme.md), [HE](audiences/he.md), [K–12: high school](audiences/k12.md) |
+| Understand the common method | [Shared foundation](audiences/shared-foundations.md) |
+| Read the HE companion essay | [Judgment in Higher Education](essays/he.md) |
+| Read the high-school educator essay | [Learning to Exercise Judgment](essays/k12.md) |
+| Compare the editions against the spine | [Adaptation record](essays/adaptation-map.md) |
+| Read the original PME essay | [`the-irreducible-officer.md`](the-irreducible-officer.md) |
 | Copy starter prompts | [`prompts/starter-prompts.md`](prompts/starter-prompts.md) |
 | Work through objections | [`prompts/objections-and-responses.md`](prompts/objections-and-responses.md) |
 | Inspect the core claims | [`claims.md`](claims.md) |
+| Inspect the adaptation evidence | [Audience foundations](sources/audience-foundations.md) |
 | See the source spine | [`sources/source-spine.md`](sources/source-spine.md) |
 | Practice workflow-native methods | [`patterns/nwc-ai-enabled-learning-workflows.md`](patterns/nwc-ai-enabled-learning-workflows.md) |
 | Practice faculty AI fluency | [`patterns/nwc-ai-enabled-learning-workflows.md`](patterns/nwc-ai-enabled-learning-workflows.md) and [`prompts/starter-prompts.md`](prompts/starter-prompts.md) |

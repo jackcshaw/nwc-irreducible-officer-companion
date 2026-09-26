@@ -1,5 +1,7 @@
 # Objections And Responses
 
+Audience note: these patterns originate in the PME essay. For HE or high school, use the matching `audiences/` guide and shared foundation. Keep disciplinary objectives, task readiness, educator support, and age-appropriate responsibilities explicit. The interactive lab starts with educator practice against the essay, then transfers to teaching. An assistant may draft a record only from actual decisions; unmade choices and unobserved review remain open.
+
 Use this file when the reader wants to test the essay rather than simply apply it. Start with the strongest version of the objection.
 
 ## Objection 1: NWC already teaches this

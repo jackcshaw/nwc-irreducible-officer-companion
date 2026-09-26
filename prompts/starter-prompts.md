@@ -1,5 +1,10 @@
 # Starter Prompts
 
+For HE, read `essays/he.md`; for high-school educators, read `essays/k12.md`. Use the selected companion edition for discussion and practice; compare with the original officer essay and `claims.md` when testing the shared argument. Use `essays/adaptation-map.md` for differences.
+
+
+Use your stated setting throughout: PME, higher education, or high school. Read the matching audience guide and the shared foundation. If the setting is missing, ask one question before recommending a teaching task. The essay’s original NWC claims remain distinct from proposed adaptations. Begin practical educator sessions by testing the essay, then transfer to teaching; do not assume officer prerequisites or adult accountability for school students.
+
 Use these prompts with **The Irreducible Officer** and this companion repo. They are designed for a back-and-forth session with an AI assistant.
 
 ## Choose A Path
@@ -40,12 +45,12 @@ Return:
 2. the argument in 10 bullets;
 3. the claim most likely to be misunderstood;
 4. why that misunderstanding is tempting;
-5. two questions NWC faculty should keep open.
+5. two questions educators in my setting should keep open.
 ```
 
 ## Inspect The Claims
 
-**Best for:** letting Dan/Rich or faculty pressure-test the essay instead of passively receiving it.
+**Best for:** letting educators pressure-test the essay instead of passively receiving it.
 
 ```text
 Use the companion repo to help me inspect the evidence behind "The Irreducible Officer."
@@ -63,17 +68,17 @@ After I pick a claim, audit it with me. Return:
 2. the strongest unresolved question or counterexample;
 3. where the evidence is strong, weak, or incomplete;
 4. what source I should read if I want to go deeper;
-5. one practical implication for NWC instruction.
+5. one practical implication for teaching in my setting.
 
 Keep it conversational. Do not defend the essay by default, and do not bury me in sources before I choose the claim.
 ```
 
-## Design An NWC Exercise
+## Design An Audience-Appropriate Exercise
 
 **Best for:** turning the essay into a concrete faculty activity.
 
 ```text
-I want to turn "The Irreducible Officer" into a practical NWC learning exercise.
+I want to turn "The Irreducible Officer" into a practical learning exercise in my setting.
 
 Read:
 - README.md
@@ -83,11 +88,11 @@ Read:
 - cases/cyber-group-strategy-transfer-case.md
 - artifacts/traceable-learning-artifact.md
 
-Design a 60-90 minute exercise for NWC faculty or students that uses the essay's method.
+Ask for my learning objective, subject, available time, and task readiness one question at a time. Then help me design an exercise appropriate to those answers.
 
 The exercise must:
 1. begin by interrogating the essay itself;
-2. then transfer the method to an approved NWC-style artifact;
+2. then transfer the method to an appropriate task using the selected audience guide;
 3. identify any AI-shaped inputs the learner inherits before using AI directly;
 4. force the learner to identify the frame, assumptions, evidence standard, and AI reliance decisions;
 5. include a flawed AI output or flawed frame for critique;
@@ -123,7 +128,7 @@ give me a generic AI tutorial. Use the essay's standard: purpose, frame,
 reliance, accountability, transfer, and developmental friction.
 
 Run this as a working session:
-1. Ask me for one NWC-style task, case, assignment, or strategic problem.
+1. Ask me for one task, case, assignment, or problem in my setting.
 2. Identify any AI-shaped inputs already present in the task, such as reports,
    summaries, planning tools, staff processes, or analytic products.
 3. Help me define the purpose, problem frame, assumptions, and evidence standard.
@@ -171,7 +176,7 @@ After the student-facing assessment, provide an instructor-only key:
 **Best for:** checking whether the learner owns the purpose, frame, reliance decisions, and final judgment behind an AI-assisted artifact.
 
 ```text
-Act as an NWC seminar instructor conducting a short oral defense.
+Help me rehearse a short defense appropriate to my setting. Written or accessible equivalent responses are welcome.
 
 Read:
 - AGENTS.md
@@ -192,8 +197,27 @@ Press me on:
 - what would change my conclusion;
 - where human judgment must interrupt automation.
 
-After six questions, assess whether I demonstrated ownership of the reasoning and identify what evidence should be added to the traceable learning artifact.
+After six questions, describe what the responses show and leave uncertain about ownership and identify what evidence should be added to the traceable learning artifact.
 ```
+
+## Run The Interactive Failure-Mode Lab
+
+**Best for:** an educator testing the essay before adapting its method to PME, higher education, or high school. This testing edition extends the workbench’s guided sessions and is included in the refreshed site’s downloads.
+
+Attach [the complete interactive context](../artifacts/judgment-lab-interactive-context.md), then paste:
+
+```text
+Run the interactive failure-mode lab in the attached context.
+My setting is [PME / higher education / high school].
+Follow labs/failure-mode-lab/facilitator.md. Use the essay as the first practice
+object. Help me choose one failure mode, collect my judgment before presenting
+the constructed contribution, and ask one question at a time. Wait for each
+answer. Challenge my reasoning and change a condition before helping me adapt
+the method to my teaching. Save only decisions I actually made; label your
+proposals and any remaining questions. If the context is unreadable, ask for it.
+```
+
+See [setup and case choices](../labs/failure-mode-lab/README.md). The refreshed companion context includes this protocol and all three audience guides.
 
 ## Build The Trace
 

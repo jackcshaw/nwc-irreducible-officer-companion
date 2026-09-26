@@ -1,0 +1,41 @@
+[
+  {
+    "id": "pme",
+    "label": "PME",
+    "title": "Professional military education",
+    "question": "Who owns the strategic judgment?",
+    "summary": "Direct capable AI assistance, weigh competing interests, and defend the decision when conditions change.",
+    "focus": "Frame capture",
+    "example": "A disruption is not yet an attribution",
+    "file": "pme.md",
+    "essayFile": "the-irreducible-officer.md",
+    "essayTitle": "The Irreducible Officer",
+    "essayMode": "essay"
+  },
+  {
+    "id": "he",
+    "label": "Higher education",
+    "title": "Higher education",
+    "question": "What does the work show about understanding?",
+    "summary": "Direct AI toward a standard the student chooses, then defend it with disciplinary evidence.",
+    "focus": "Frame capture",
+    "example": "A research memo on returning to the office",
+    "file": "he.md",
+    "essayFile": "essays/he.md",
+    "essayTitle": "Judgment in Higher Education",
+    "essayMode": "he-essay"
+  },
+  {
+    "id": "k12",
+    "label": "K–12 · High school",
+    "title": "K–12: high school first",
+    "question": "Can students set the standard AI works toward?",
+    "summary": "Students direct AI toward a question they own, check it against sources, and defend the standard they chose.",
+    "focus": "Frame capture",
+    "example": "Was the New Deal a success?",
+    "file": "k12.md",
+    "essayFile": "essays/k12.md",
+    "essayTitle": "Learning to Exercise Judgment",
+    "essayMode": "k12-essay"
+  }
+]
