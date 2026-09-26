@@ -69,3 +69,7 @@ This repo answers five practical questions:
 ## Public-Safe Boundary
 
 This repo is intended to be public and unclassified. It includes essay context, prompts, claim maps, and links to public sources. It does not include website source, deploy configuration, local course artifacts, or private NWC materials. The Cyber Group Strategy transfer case is described as a practice pattern; instructors should attach only artifacts they are authorized to use.
+
+## Alignment rules
+
+- `alignment/retired-phrases.json` — framings and cases the argument has retired. The site's CI fails when they reappear; retire a framing and add its rule in the same PR.
