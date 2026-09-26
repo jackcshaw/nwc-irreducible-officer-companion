@@ -30,7 +30,7 @@ Rebuild after edits; `--check` fails when this bundle differs from its sources.
 | `audiences/he.md` | `dcf483cc9648c81e7a438ed73748c03a3fe537fd7c3b0879813b95ebec1f5529` |
 | `audiences/k12.md` | `fafae47978726a1e904875b2186e0bc362f3c002fa5279febb499a693660ad92` |
 | `the-irreducible-officer.md` | `92e65d59bd51af95662340661458aea486cbb6fde86813d79e6d69fc760b29fa` |
-| `essays/he.md` | `2adbadf8cd4586b56356b5b2bb36474ba631f023a953181f2cf5b32bac1d9298` |
+| `essays/he.md` | `63fb9f4bc5cee0f3dbcc484e5fd5094dcc75712228cef32e82370229b9cb3153` |
 | `essays/k12.md` | `eb4ce0596b66ce622660353c7e8882e1fdce77b9406fa41b7dc9b20de9214b07` |
 | `essays/adaptation-map.md` | `6d67dfcb0910c469e386a022b3112478999ab7299045937978e8e9d7fb8733cf` |
 | `claims.md` | `c992cdedce911aba4ee4e8978183eea118f9d72532e8a18c6af4d7d0ab3e13f9` |
@@ -842,6 +842,8 @@ Spanos, N. P., & Gottlieb, J. (1976). Ergotism and the Salem Village witch trial
 Theobold, A. S. (2021). Oral exams: A more meaningful assessment of students' understanding. *Journal of Statistics and Data Science Education, 29*(2), 156–159. <https://www.tandfonline.com/doi/full/10.1080/26939169.2021.1914527>
 
 Vendrell, M., & Johnston, S.-K. (2026). Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher education. *Computers and Education: Artificial Intelligence, 10*, 100572. <https://doi.org/10.1016/j.caeai.2026.100572>
+
+Teach the foundations before AI use.
 
 <!-- END SOURCE: essays/he.md -->
 

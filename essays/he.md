@@ -171,3 +171,5 @@ Spanos, N. P., & Gottlieb, J. (1976). Ergotism and the Salem Village witch trial
 Theobold, A. S. (2021). Oral exams: A more meaningful assessment of students' understanding. *Journal of Statistics and Data Science Education, 29*(2), 156–159. <https://www.tandfonline.com/doi/full/10.1080/26939169.2021.1914527>
 
 Vendrell, M., & Johnston, S.-K. (2026). Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher education. *Computers and Education: Artificial Intelligence, 10*, 100572. <https://doi.org/10.1016/j.caeai.2026.100572>
+
+Teach the foundations before AI use.
