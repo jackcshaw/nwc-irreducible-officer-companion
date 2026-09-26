@@ -4,7 +4,7 @@ These notes support the refresh's instructional design. They do not add findings
 
 ## Subject knowledge, modeling, and metacognition
 
-The EEF synthesis recommends explicitly teaching planning, monitoring, and evaluation within curriculum content, with teacher modeling and support. Our design inference is to inspect the task's prerequisites and model missing reasoning before expecting independent AI critique. The synthesis's average effects are not predictions for Judgment Lab. [EEF: Metacognition and self-regulation](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation).
+The EEF synthesis recommends explicitly teaching planning, monitoring, and evaluation within curriculum content, with teacher modeling and support. Our design inference is to check the task's prerequisites in the learner's unaided first step and model missing reasoning there, so students can then direct AI and judge what it returns. The synthesis's average effects are not predictions for Judgment Lab. [EEF: Metacognition and self-regulation](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation).
 
 The National Research Council discusses the importance of prior knowledge, organized understanding, and metacognitive approaches. This supports asking what knowledge a learner brings and what a particular task requires. It does not supply a fixed age ladder for AI use. [How People Learn, chapter 1](https://www.nationalacademies.org/read/9853/chapter/3).
 

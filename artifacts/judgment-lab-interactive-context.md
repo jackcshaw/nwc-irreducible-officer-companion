@@ -35,7 +35,7 @@ Rebuild after edits; `--check` fails when this bundle differs from its sources.
 | `essays/adaptation-map.md` | `6d67dfcb0910c469e386a022b3112478999ab7299045937978e8e9d7fb8733cf` |
 | `claims.md` | `c992cdedce911aba4ee4e8978183eea118f9d72532e8a18c6af4d7d0ab3e13f9` |
 | `sources/source-spine.md` | `237b40f501270a7dc70d8e21b1074830f7a6a03c508d8ac54de777bd65f4935e` |
-| `sources/audience-foundations.md` | `2fd3107038aa653cbe3c5d021f798914df4de4e81b115d7c24f6ec1024b7a034` |
+| `sources/audience-foundations.md` | `40fa1da3946f69d73d5d261735cbd3134fcedd585ef2a0ee776671e9e2aabaf3` |
 | `patterns/nwc-ai-enabled-learning-workflows.md` | `08242873aa845e2b29ee548f77d9d02c493a76c47ad6ab8fe949c741f2d93bdb` |
 | `prompts/objections-and-responses.md` | `d23fa081337a7d348d23c746216b3ba582c32eb3250362817e3dc9dc735c6d9b` |
 | `artifacts/traceable-learning-artifact.md` | `ed5275eb036461e1fe1cbcc0c9ff18d13451a8f03e3525834536d2afa8032161` |
@@ -1265,7 +1265,7 @@ These notes support the refresh's instructional design. They do not add findings
 
 ## Subject knowledge, modeling, and metacognition
 
-The EEF synthesis recommends explicitly teaching planning, monitoring, and evaluation within curriculum content, with teacher modeling and support. Our design inference is to inspect the task's prerequisites and model missing reasoning before expecting independent AI critique. The synthesis's average effects are not predictions for Judgment Lab. [EEF: Metacognition and self-regulation](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation).
+The EEF synthesis recommends explicitly teaching planning, monitoring, and evaluation within curriculum content, with teacher modeling and support. Our design inference is to check the task's prerequisites in the learner's unaided first step and model missing reasoning there, so students can then direct AI and judge what it returns. The synthesis's average effects are not predictions for Judgment Lab. [EEF: Metacognition and self-regulation](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation).
 
 The National Research Council discusses the importance of prior knowledge, organized understanding, and metacognitive approaches. This supports asking what knowledge a learner brings and what a particular task requires. It does not supply a fixed age ladder for AI use. [How People Learn, chapter 1](https://www.nationalacademies.org/read/9853/chapter/3).
 
