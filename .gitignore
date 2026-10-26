@@ -2,3 +2,7 @@
 .superpowers/
 tmp/
 node_modules/
+
+# Local tool output, not part of the companion
+.specstory/
+.playwright-mcp/
