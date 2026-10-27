@@ -64,11 +64,36 @@ Checked October 27, 2026, unless marked.
 | Emanuel, Harrington & Pallais (2023), NBER w31880 | Junior engineers got less feedback when teammates were not nearby. | Verified September 25, 2026, for the HE edition. |
 | Laufer, Gilbert & Nissenbaum (2023); Raees & Papangelis (2026); Deng, Brucks & Toubia (2026); Andres (review copy) | Normative choices before optimization; trust versus reliance; narrow distribution of model ideas; conviction-shaped output | Already in the source spine. Andres is a review-copy source, cited as the original cites it. |
 
-To find before drafting:
+### Additions from the October 27 source search
 
-- a citable source for the pre-mortem (Klein's 2007 *Harvard Business Review* piece is the likely one; not yet checked);
-- any study of how managers review AI-assisted analysis (none found yet);
-- evidence on junior skill development in analyst roles beyond coding.
+The full notes, with about 45 sources, quotes and limits, are in [sources/business-edition-research.md](../sources/business-edition-research.md). These are the ones the argument should use.
+
+| Source | Finding | Where it goes |
+| --- | --- | --- |
+| Autor et al. (2026), NBER w35720, 133 patent lawyers, three-month randomized trial | AI raised the quality of delivered work, most for juniors. Tested later without AI, only seniors had gained (0.45 SD); juniors showed no average gain, splitting into more poor and more good scores. "Foundational expertise may be a prerequisite for extracting durable skill from AI-assisted practice." Funded by Google; one profession. | VI centerpiece; also III |
+| Camuffo, Gambardella, Kazemi & Pandey (2026), *Strategy Science* 11(1), 976 managers, randomized | Experienced managers got better work with no rise in confidence; highly educated managers got more confident with no better work. The authors call AI system design and use, "not mere access to generic models," a source of advantage. | III, V, X; supports Jack's competition point |
+| Dell'Acqua et al. (2023), detail from the working paper | On the task outside the frontier, graders rated AI users' recommendations higher in quality regardless of whether the answer was correct. | III |
+| Romasanta, Thomas & Levina (2026), *HBR*, "trendslop" | Across thousands of simulations and several leading models, LLMs gave the same trendy strategy advice regardless of context, defaulting to differentiation, augmentation, collaboration and long-termism. Methods visible only through the authors' summary. | II, X; shapes the case (below) |
+| Barney & Reeves (2024, *HBR*); Wingate, Burns & Barney (2025, *MIT SMR*) | The founder of the resource-based view argues AI is not unique to any firm, so it can't be a lasting advantage and will homogenize. Argument, not data. | X |
+| Kim et al. (2025, ICML); Jiang et al. (2025, NeurIPS, "Artificial Hivemind") | When two models both get a question wrong, they usually give the same wrong answer, and larger models err more alike; different vendors give strikingly similar open-ended answers. | II: switching vendors doesn't buy an independent view |
+| Vaccaro, Almaatouq & Malone (2024), *Nature Human Behaviour*, 106 experiments | On average, human–AI combinations did worse than the better of the human or the AI alone (g = −0.23), with losses on decision tasks and gains on content creation. | V |
+| Otis et al. (2026), *Management Science*, Kenyan entrepreneurs | High performers gained and low performers lost; the published version attributes the gap to "the advice that entrepreneurs chose to implement." | V: the judgment is in what you act on |
+| Neshenko & Ryall (2026), *Strategy Science*, formal model | Strategy delegated to AI can lock into a self-confirming pattern; the human role is "deciding when to change the frame and not merely optimizing within it." | IV |
+| Brynjolfsson, Chandar & Chen, revised August 2026 | Employment of 22- to 25-year-olds in AI-exposed jobs is 19% below trend, mainly through less hiring. Descriptive, not causal. | VI: the junior pipeline is already thinning |
+
+### Counter-evidence the essay must answer
+
+- **AI helps on average.** In the same meta-analysis, human–AI combinations beat humans alone by a wide margin. Aggregated LLM evaluations of business models resemble expert rankings (Doshi et al., *SMJ* 2025). Answer in V: the gains are real, and the losses concentrate in decisions, which is where the manager signs.
+- **Sameness can be fixed.** Pooling vendors, chain-of-thought prompting and assigned personas bring AI idea diversity close to human levels (Terwiesch et al., 2026, *POM*). Answer in II and X: convergence is the default, and escaping it takes exactly the fluency Jack describes.
+- **Deskilling depends on use.** Learning gains persist when AI is used as a tutor, and apprentices with more AI literacy gained more. Sharing a decision with a machine did not reduce felt responsibility in one experiment (Kirchkamp & Strobel, 2019). Answer in VI and VII: that makes how juniors use AI a design decision for the manager, and responsibility laundering a risk, not a law.
+
+### Corrections
+
+- **Dell'Acqua et al.:** the working paper's abstract says "19 percentage points"; the 2026 *Organization Science* version says "19% less likely." Use percentage points and cite the working paper (84.5% correct without AI against 60% and 70% with it).
+- **Brynjolfsson, Li & Raymond:** the published *QJE* abstract says 15%; the 14% is from the 2023 working paper.
+- **Emanuel, Harrington & Pallais:** now in *QJE* (2026). Check any figure the HE edition took from the 2023 version.
+- **Pre-mortem:** Klein (2007) is citable for the practice. Drop the "30% better at identifying reasons" figure; Mitchell, Russo & Pennington (1989) don't support it.
+- **Do not cite** Kim, Muhn & Nikolaev's "GPT-4 beats analysts" paper; the authors have withdrawn it over data inconsistencies.
 
 ## Objections the essay must answer
 
@@ -78,7 +103,8 @@ To find before drafting:
 4. **AI will soon frame better than your analysts.** *Answer:* keep claim 3's open question open. A system that frames well is still framing toward an objective someone accepted.
 5. **The evidence says AI helps novices most, so the worry about juniors is backwards.** *Answer:* the gains are real and measured on output. The Anthropic trial shows output and mastery can come apart, and how the junior uses AI decides which way it goes. That makes it a design question for the manager.
 6. **Managers don't have time for this.** *Answer:* that's a real cost. Start with one decision type and one review, and record the actual time.
-7. **Why would a business reader take an argument written for a war college?** *Answer:* the edition stands on its own. Name the origin once, in the dek, and keep military examples out of the body.
+7. **The essay's conclusion is what an LLM would say.** Models default to recommending differentiation and augmentation, so "differentiate on judgment" can read as trendslop. *Answer:* earn it with the field evidence (Autor, Camuffo, BCG) and let the case show a generic answer failing on a company's own data.
+8. **Why would a business reader take an argument written for a war college?** *Answer:* the edition stands on its own. Name the origin once, in the dek, and keep military examples out of the body.
 
 ## Formulations worth keeping
 
