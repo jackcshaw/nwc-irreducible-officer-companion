@@ -1,6 +1,6 @@
 # Judgment at Work: argument spine
 
-Draft for Jack's review, October 27, 2026. No essay prose exists yet. This is the business edition of *The Irreducible Officer*, decided in the [business lens plan](../docs/plans/2026-10-26-1800-feat-business-lens-plan.md): it publishes after two business practitioners have run the retention case and the sources below are checked against the papers. The original essay and [claims.md](../claims.md) stay canonical.
+Draft for Jack's review, October 27, 2026; revised the same day with his first answers (see Decisions). No essay prose exists yet. This is the business edition of *The Irreducible Officer*, decided in the [business lens plan](../docs/plans/2026-10-26-1800-feat-business-lens-plan.md): it publishes after two business practitioners have run the retention case and the sources below are checked against the papers. The original essay and [claims.md](../claims.md) stay canonical.
 
 ## Claim
 
@@ -25,6 +25,10 @@ After reading, a manager should be able to:
 
 Companies are handling AI as a productivity question (how much faster?) and a policy question (which tools, which data?). Both are necessary, and neither tells a manager whose judgment is in the recommendation. The category error is reading the finished deck as evidence of the thinking behind it. The sharpest evidence comes from business itself: in the BCG experiment, consultants who used AI on a task outside its frontier got the answer wrong more often and wrote it up better.
 
+**Jack's point on competition (October 27):** "How do you differentiate competitive intelligence when everybody uses the same intelligence? That becomes a judgment and a fluency of AI use that is hard to capture." When every company can buy the same analysis, the analysis stops being an advantage, and what differentiates is the frame and the skill a team brings to the tools.
+
+*Proposed extension, for Jack to accept or cut:* the property that makes judgment hard to see in a finished deck is the same property that makes it hard for a competitor to copy. The edition's assessment problem and its business case are one argument.
+
 ## Argument order
 
 Working headings describe this edition's argument. Each section notes the claim it carries.
@@ -32,7 +36,7 @@ Working headings describe this edition's argument. Each section notes the claim 
 | Section | Argument | Claim |
 | --- | --- | --- |
 | I. The bar went up | Two analysts, two retention plans; the machine-directed one reads better. The harder case is the careful analyst who built his plan by hand and is a step slow: at P&G, one professional with AI matched a two-person team without it. AI policies and productivity metrics leave the question open. Companies certify judgment constantly. | 1 |
-| II. A clean analysis of the wrong problem | The retention synthesis: every figure right, retention silently redefined as the churn rate, the cancellation-form answer treated as the cause. Failure modes shown: frame capture, fluency substitution, invisible delegation ("write the retention plan" hands over what retention means), responsibility laundering ("the analysis supports a discount"), and institutional monoculture recast as strategic convergence: competitors asking similar models get similar plans. | 1, 3 |
+| II. A clean analysis of the wrong problem | The retention synthesis: every figure right, retention silently redefined as the churn rate, the cancellation-form answer treated as the cause. Failure modes shown: frame capture, fluency substitution, invisible delegation ("write the retention plan" hands over what retention means), responsibility laundering ("the analysis supports a discount"), and institutional monoculture recast as strategic convergence: competitors asking similar models get similar plans, so the obvious answer is also the predictable one. | 1, 3 |
 | III. What the deck cannot show | BCG outside the frontier: less accurate, better written. What carries the rest of the evidence: the frame, the reliance decisions, the changed case. | 2 |
 | IV. Someone decides what the plan protects | The narrow ask from above is the strict prompt: leadership sets the question, but the analyst still owns the standard. Two strong analysts could protect different things (revenue retained or clinics actually using the product) and both defend it. Laufer et al. on choices made before optimization runs. A system that frames well later is still framing toward an objective someone accepted; keep that question open. | 3 |
 | V. When the machine deserves weight | The jagged frontier was measured on knowledge workers at work. Trust versus reliance. Levels of directing AI, where business teams already run agents, so the top level is current practice. In the case: accept the segmentation after checking it against the account export; refuse the discount as the plan's centerpiece. | 4 |
@@ -40,7 +44,7 @@ Working headings describe this edition's argument. Each section notes the claim 
 | VII. Whoever signs answers | Decision rights name a signer. Conviction-shaped output (Andres): a human recommendation carries a track record, incentives and a reputation; a model carries none and sounds just as sure. "The analysis recommended it" moves no responsibility. Stay with decision rights, with no legal or regulatory claims. | 6 |
 | VIII. Reviews that show ownership | A one-page frame note; what was kept, changed or refused; a "walk me through it" review; the changed case as a pre-mortem. Judge the defense, since more than one plan can be defensible. Name the cost in manager time. | 7 |
 | IX. A trial on one team | The five steps with the retention case. A second manager reviews the saved record, the actual time is recorded, then continue, revise or stop. | 7 |
-| X. What a company can build | Managers who practice and model it. A team library of misframed analyses, including ones where the model was right. Shared prompt libraries and agent workflows carry one definition of a good analysis company-wide, so write the assumptions down and keep them open to revision. | 8 |
+| X. What a company can build | Jack's competition point lands here: when everyone has the same intelligence, the advantage is the judgment and AI fluency that are hard to capture, so build them on purpose. Managers who practice and model it. A team library of misframed analyses, including ones where the model was right. Shared prompt libraries and agent workflows carry one definition of a good analysis company-wide, so write the assumptions down and keep them open to revision. | 8 |
 | XI. Back to the two plans | The close and the four moves. | all |
 | References | | |
 
@@ -92,6 +96,9 @@ New candidates:
 - "The consultants who used AI on the hard task got it wrong more often and wrote it up better."
 - "Any capable model will answer 'write the retention plan,' and its plan will decide what retention means without saying so." (from the business guide)
 - "When competitors ask similar models the same question, they get similar plans." Use only with the Doshi & Hauser caveat.
+- Jack: "How do you differentiate competitive intelligence when everybody uses the same intelligence?"
+- Candidate: "The judgment that's hard to see in the deck is the same judgment a competitor can't copy."
+
 
 ## Avoid
 
@@ -113,11 +120,14 @@ New candidates:
 **C. The AI recommendation itself.** Open on the discount-and-annual-plan recommendation and say every number in it is right.
 *Why not first:* it's concrete and fast, but it gives away Section II before the reader knows why a manager should care.
 
-## Decisions for Jack
+## Decisions
 
-1. **Opening:** A, with B's line as the turn? (recommended)
-2. **One case or two:** the essay and the business guide share the retention case, so readers practice what they read, as the HE edition does with its memo. (recommended) The alternative is a second case for the essay.
-3. **Strategic convergence:** keep the monoculture-as-convergence point in Section II with its caveat, or drop it until there's evidence about strategy rather than stories? Recommend keeping it, since it's the failure mode business readers will feel most.
-4. **Subtitle:** "Directing AI Toward Decisions You Own" is the working candidate.
+Jack's answers, October 27:
+
+1. **The certification line** ("Every company certifies judgment. It calls it promotion.") is in. Placement as the turn in opening A stands unless Jack wants it first.
+2. **The case is open.** Jack isn't sure retention is the best example. A competitive-response alternative is sketched for him (see the conversation of October 27); the decision will be recorded here.
+3. **Strategic convergence stays,** reframed around Jack's competition point above.
+4. **Subtitle approved:** "Directing AI Toward Decisions You Own".
+5. **Sources:** Jack asked for more and better evidence. A source search is running, covering convergence, reliance, metrics, accountability, junior development, reviews, and counter-evidence. Results go into the Evidence table once checked.
 
 Once the direction is approved, the next step is a whole first draft, since the open questions are about the argument rather than any one section. It then goes through the writing-as-jack gate before Jack reads it.
