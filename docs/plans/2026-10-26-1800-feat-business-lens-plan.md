@@ -12,8 +12,8 @@ product_contract_source: ce-brainstorm
 ## Goal Capsule
 
 - **Objective:** A manager or team lead who opens Judgment Lab can choose a business setting, practice the essay's four moves on a business decision (frame the problem, calibrate reliance, refuse the garden path, own the decision), and design that practice for their own team. The PME origin and the three education settings keep working as they do today.
-- **Product authority:** Jack decides. He has decided two things: Judgment Lab gets a business lens, and the lens keeps the essay's core issues. Every other choice in this plan is a recommendation waiting on his answer under "Open questions for Jack." A full business essay edition is out of active scope; its argument spine is recorded here for a later plan. PR #34 (the open call) stays out of scope beyond the Business sign-up option and teal color it already carries.
-- **Open blockers:** Jack's answers to the six open questions (the first three, on reader, name, and essay shape, decide most of the rest) and his review of the DRAFT guide at `audiences/business.md`.
+- **Product authority:** Jack decides. On October 26–27, 2026 he decided that Judgment Lab gets a business lens, that it keeps the essay's core issues, and he accepted all six recommendations below. He also directed that work on the full business edition, *Judgment at Work*, begin now, alongside v1; it publishes only after the practitioner runs and evidence checks in decision 3. PR #34 (the open call) stays out of scope beyond the Business sign-up option and teal color it already carries.
+- **Open blockers:** None for planning. Jack's review of the DRAFT guide at `audiences/business.md` remains before v1 ships.
 
 ---
 
@@ -35,7 +35,13 @@ Business readers have no way in today. A manager who arrives from the open call 
 - **The lens keeps the essay's core issues.** Jack's call. Frame capture, calibrated reliance, refusing the garden path, and owning the decision stay the spine. Governs R1, R2, R3, R4.
 - **The original essay and `claims.md` stay canonical; business is a translation.** Existing repo rule, the same one HE and high school follow (`essays/adaptation-map.md`, `audiences/shared-foundations.md`). Governs R5, R6.
 
-Every other shape choice is a recommendation in "Open questions for Jack."
+- **The business reader is the manager or team lead who reviews and develops other people's AI-assisted work, plus the L&D staff who train them.** (session-settled: user-approved — chosen over individual contributors, which loses the reviewer and the accountability loop, and executives, who need a briefing more than a lab) Governs R7–R11.
+- **The setting is called "Business", id `business`, color `--set-business`.** (session-settled: user-approved — chosen over "Workplace", "Leadership" and "Corporate": vaguer, executive-only, and excludes small firms and nonprofits respectively) Governs R14.
+- **v1 points business readers to the original essay with a role-mapping guide; the full edition, *Judgment at Work*, follows and publishes after two business practitioners have run the case and its evidence is checked.** (session-settled: user-approved — chosen over writing the full edition first, which would hold v1 for a long evidence pass, and over the HE edition, which is built around students) Governs R8, R12.
+- **Drafting *Judgment at Work* starts now, in parallel with v1.** (session-settled: user-directed — chosen over waiting for v1 and the practitioner runs before any writing: Jack asked to begin the edition immediately after accepting the recommendations; publication stays gated as above)
+- **Design becomes a Business Workbench: one Business profile with the ten templates in workplace roles.** (session-settled: user-approved — chosen over a separate business site, which splits the argument, and unchanged education wording, which turns managers away) Governs R10, R11.
+- **The first business case is the fictional retention plan.** (session-settled: user-approved — chosen over return-to-office, already HE's case; an outage case, too close to PME's; and a real company, which needs sourcing and permission) Governs R1–R4.
+- **PR #34 ships as planned and the lens follows as its own release.** (session-settled: user-approved — chosen over holding the open call for the business page, or dropping the Business sign-up option until v1)
 
 ### Requirements
 
@@ -179,9 +185,9 @@ Every change below is a planning target, listed so planning can size the work. P
 - Releases are coordinated across sessions, and the last deploy wins. v1 ships as one release from all three mains, with Jack's go for the production deploy.
 - Assumption: business readers will take a military essay as the source argument when the guide maps its roles to work. Nobody has tested this; open question 3 carries the risk.
 
-### Open questions for Jack
+### Decisions on the six open questions
 
-All six are Resolve Before Planning. Each has a recommendation; none is decided.
+Jack accepted all six recommendations on October 27, 2026; they are recorded under Key Decisions. The reasoning below is kept for reviewers.
 
 1. **Who is the business reader?** Recommend managers and team leads who review and develop other people's AI-assisted work, plus the learning and development staff who build their training. They keep the lab's shape intact: one person designs practice and reviews evidence for someone else, which is the educator's role at work. Rejected: individual contributors as the main reader, because without a reviewer the lab turns into a personal productivity tool and loses the accountability loop. Rejected: executives as the main reader, because they need a short briefing more than a practice lab; they can read the essay second.
 2. **What is the setting called?** Recommend the label "Business" with id `business`, as PR #34 already uses on the sign-up form and in `--set-business`. It is short like the other labels and it is the word Jack used. The guide can say "companies and other organizations" so nonprofits read themselves in. Rejected: "Workplace," which is vaguer (PME and HE happen in workplaces too). Rejected: "Leadership," which reads as executives only and collides with the school-leadership case linked from Discuss. Rejected: "Corporate," which leaves out small firms and nonprofits. No conflict with the open call's option or color; reuse both (R14).
