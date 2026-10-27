@@ -106,6 +106,20 @@ The full notes, with about 45 sources, quotes and limits, are in [sources/busine
 7. **The essay's conclusion is what an LLM would say.** Models default to recommending differentiation and augmentation, so "differentiate on judgment" can read as trendslop. *Answer:* earn it with the field evidence (Autor, Camuffo, BCG) and let the case show a generic answer failing on a company's own data.
 8. **Why would a business reader take an argument written for a war college?** *Answer:* the edition stands on its own. Name the origin once, in the dek, and keep military examples out of the body.
 
+## The essay's case
+
+A fictional regional grocery chain with 40 stores learns that a national discount grocer will open six stores in its markets next year. Leadership asks for a response plan.
+
+- **The AI's answer** is the one every model gives (Romasanta, Thomas & Levina, 2026): don't fight a discounter on price; differentiate on fresh food, local products and service. Its figures check out.
+- **Convergence:** every regional chain's AI gives the same advice, so it's also the response the discounter expects.
+- **The frame flaw:** the answer describes what regional chains do in general. In most of the affected markets, the chain's loyalty data shows its best customers shop on price and live near the new stores, and its fresh departments rate about average. The generic plan hands those customers to the discounter.
+- **Accept after checking:** the AI's price-gap comparison, checked against the chain's own price checks.
+- **Changed case:** a market where the chain's pharmacy and fresh counters lead on customer ratings and those shoppers bring in most of the revenue. There, differentiating is right.
+- **Why it passes the case tests:** the stock answer is itself the flaw, so no stock phrase catches it; two strong analysts can defend different plans; directing AI helps (sorting the loyalty data by market); something deserves acceptance; and the changed case makes different evidence decisive.
+- **Line to try:** "When every chain's AI recommends differentiation, differentiation stops differentiating."
+
+All figures are fictional and must be labeled.
+
 ## Formulations worth keeping
 
 From the original (Jack's sentences):
@@ -151,7 +165,7 @@ New candidates:
 Jack's answers, October 27:
 
 1. **The certification line** ("Every company certifies judgment. It calls it promotion.") is in. Placement as the turn in opening A stands unless Jack wants it first.
-2. **The case is open.** Jack isn't sure retention is the best example. A competitive-response alternative is sketched for him (see the conversation of October 27); the decision will be recorded here.
+2. **The essay uses the grocery case; the business guide keeps retention** (Jack, October 27: "This is MONEY"). The essay needs stakes that grab; teams practice on retention. See "The essay's case" below.
 3. **Strategic convergence stays,** reframed around Jack's competition point above.
 4. **Subtitle approved:** "Directing AI Toward Decisions You Own".
 5. **Sources:** Jack asked for more and better evidence. A source search is running, covering convergence, reliance, metrics, accountability, junior development, reviews, and counter-evidence. Results go into the Evidence table once checked.
