@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "frame-capture",
+    "name": "Frame capture",
+    "whatGoesWrong": "The first plausible frame becomes the student's frame.",
+    "check": "What problem did the student choose to solve?"
+  },
+  {
+    "slug": "fluency-substitution",
+    "name": "Fluency substitution",
+    "whatGoesWrong": "Polished analysis stands in for owned reasoning.",
+    "check": "Can the student independently explain the judgment in plain speech?"
+  },
+  {
+    "slug": "premature-synthesis",
+    "name": "Premature synthesis",
+    "whatGoesWrong": "The model connects material before the student has built the map.",
+    "check": "Can the student explain why these connections matter?"
+  },
+  {
+    "slug": "uncalibrated-reliance",
+    "name": "Uncalibrated reliance",
+    "whatGoesWrong": "The student accepts confident output without knowing whether the task fits the tool.",
+    "check": "What evidence justified relying on the system here?"
+  },
+  {
+    "slug": "invisible-delegation",
+    "name": "Invisible delegation",
+    "whatGoesWrong": "A request for help transfers criteria, structure, or meaning.",
+    "check": "What did the AI decide for the student?"
+  },
+  {
+    "slug": "institutional-monoculture",
+    "name": "Institutional monoculture",
+    "whatGoesWrong": "Shared systems and defaults narrow the range of frames available to the class.",
+    "check": "What frames are missing across the seminar?"
+  },
+  {
+    "slug": "responsibility-laundering",
+    "name": "Responsibility laundering",
+    "whatGoesWrong": "The model's recommendation makes agency feel distributed or easier to defend.",
+    "check": "Who owns the recommendation if it proves wrong?"
+  }
+]
